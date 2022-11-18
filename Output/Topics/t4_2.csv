@@ -1,0 +1,153 @@
+,Text,Topic,Rating,Likes,Food,Broad Filter,Media,Age,Gender,food,supermarkets,related,drinks,slang,diet,meals,Dmeals,words_no,Polarity,restaurants,brands,Media_0,Media_1,Media_2,BMI,topic_no
+3,Ik ben kort en pittig,4: Honger,,1.0,['pittig'],"['kort', 'pittig']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0.0,0.0,1.0,0.0,0.0,14.0,4
+12,Ik ben kkrt en pittig,4: Honger,,0.0,['pittig'],"['kkrt', 'pittig']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0.0,0.0,1.0,0.0,0.0,26.0,4
+46,Een kilo kaas een kilo worst een kilo groente een kilo fruit en dan nu bestellen,4: Honger,2.0,0.0,"['fruit', 'worst', 'kas', 'groent']","['kilo', 'kas', 'kilo', 'worst', 'kilo', 'groent', 'kilo', 'fruit', 'bestell']",0.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+70,Hallo jumbo??????,4: Honger,,0.0,['jumbo'],"['hallo', 'jumbo']",0.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+80,Hallo jumbo,4: Honger,,0.0,['jumbo'],"['hallo', 'jumbo']",0.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+104,Ja he heb liever ongezonde,4: Honger,,0.0,['ongezond'],"['he', 'liever', 'ongezond']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6,0.0,0.0,1.0,0.0,0.0,15.0,4
+122,En ik zit aan de cola,4: Honger,4.0,0.0,['cola'],"['zit', 'cola']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,15.0,4
+135,Ik zie jou maar jij zoet mij niet laat maar,4: Honger,,0.0,['zoet'],"['zie', 'jou', 'jij', 'zoet', 'lat']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.275,0.0,0.0,1.0,0.0,0.0,21.0,4
+137, Kaas lol,4: Honger,4.0,0.0,['kas'],"['kas', 'lol']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,4
+138,Ja ik wil ook liever lidl,4: Honger,,0.0,['lidl'],"['liever', 'lidl']",0.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,4
+144,Kom je vandaag naar LIDL pleintje,4: Honger,,0.0,['lidl'],"['kom', 'vandag', 'lidl', 'pleintj']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,18.0,4
+145,Maar lidl zen pleintje is leuker wat denk jij,4: Honger,,0.0,['lidl'],"['lidl', 'zen', 'pleintj', 'leuker', 'denk', 'jij']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+146,Als we vij lidlse zijn,4: Honger,,0.0,['lidl'],"['we', 'vij', 'lidl']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+153,Rijst doe de pan doe ik ook allebei wat is rijst rijst rijst en zo lekker ja rijst doe er een komkommer bij rijst moet je lekker eten rijst en Dit heb ik ingesproken terwijl ik dit doe ik,4: Honger,1.0,0.0,"['komkommer', 'rijst', 'rijst', 'rijst', 'rijst', 'rijst', 'rijst', 'rijst', 'eten', 'pan']","['rijst', 'doe', 'pan', 'doe', 'allebei', 'rijst', 'rijst', 'rijst', 'lekker', 'rijst', 'doe', 'komkommer', 'rijst', 'lekker', 'eten', 'rijst', 'ingesprok', 'terwijl', 'doe']",0.0,12.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,10.0,0.6,0.0,0.0,1.0,0.0,0.0,24.0,4
+162,Boterhammen en een peperkoek,4: Honger,3.0,0.0,"['peperkoek', 'boterhamm']","['boterhamm', 'peperkoek']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+163,Ja ja ja doei doei doei doei ja ja ja doe ik doe dit Ik neem dit op Vergeet die 3 niet Ik wil het wel hebben anders ga ik daar te eten taarten eten lol alle Laura's zijn taarten,4: Honger,4.0,0.0,"['taart', 'taart', 'eten', 'eten']","['doei', 'doei', 'doei', 'doei', 'doe', 'doe', 'nem', 'verget', 'wel', 'ander', 'ga', 'eten', 'taart', 'eten', 'lol', 'all', 'laura', 'taart']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+176,Die meisjes die aan het picknicken waren ,4: Honger,,0.0,['picknick'],"['meisjes', 'picknick']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+187,Sinds aiman zij dat zijn vader giraf kan eten ik ging stukkkjjj,4: Honger,,0.0,['eten'],"['sind', 'aiman', 'vader', 'giraf', 'eten', 'ging', 'stukkjj']",1.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,22.0,4
+190,Zogenaamd je kan giraf eten,4: Honger,,0.0,['eten'],"['zogenaamd', 'giraf', 'eten']",1.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.15000000000000002,0.0,0.0,0.0,1.0,0.0,17.0,4
+195,Kom dan vechten reep cola,4: Honger,4.0,0.0,['cola'],"['kom', 'vecht', 'rep', 'cola']",0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,14.0,4
+228,Jij zegt tegen ons dat jij juist niet van groente houd??,4: Honger,1.0,0.0,['groent'],"['jij', 'zegt', 'jij', 'juist', 'groent', 'houd']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,16.0,4
+250,Lidle lidle,4: Honger,,0.0,"['lidl', 'lidl']","['lidl', 'lidl']",1.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0,4
+260,Bier?????????? lol????????,4: Honger,,0.0,['bier'],"['bier', 'lol']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+295,Ik ben een cup cake,4: Honger,4.0,0.0,['cak'],"['cup', 'cak']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,4
+297,Bakker er  geen chocolade van,4: Honger,5.0,0.0,['chocolad'],"['bakker', 'chocolad']",1.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0,4
+302,Bier ??????,4: Honger,,0.0,['bier'],['bier'],0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+335,Melk,4: Honger,4.0,0.0,['melk'],['melk'],1.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,20.0,4
+352,Drink jij water om erbij te horen?,4: Honger,,0.0,['drink'],"['drink', 'jij', 'water', 'erbij', 'hor']",0.0,12.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+361,Keuken drol,4: Honger,,0.0,['keuk'],"['keuk', 'drol']",0.0,13.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+369,Norah slurpt haar drinken naar binnen,4: Honger,,2.0,['drink'],"['norah', 'slurpt', 'drink', 'binn']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,16.0,4
+373,Nu weer vragen gehad ??           pannekoeken gegeten????,4: Honger,2.0,3.0,['pannekoek'],"['wer', 'vrag', 'gehad', 'pannekoek', 'geget']",1.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+388,Eerst boris uitlaten en even wat drinken,4: Honger,,0.0,['drink'],"['eerst', 'boris', 'uitlat', 'even', 'drink']",0.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,4
+418,Ik ga even drinken,4: Honger,,0.0,['drink'],"['ga', 'even', 'drink']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+420,Over water drinken,4: Honger,,0.0,['drink'],"['water', 'drink']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+456,Je moet eten en drinken en stil zijn,4: Honger,,0.0,"['drink', 'eten']","['eten', 'drink', 'stil']",0.0,10.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,-0.06666666666666667,0.0,0.0,1.0,0.0,0.0,14.0,4
+464,Jumbo Jumbo zegt hij is bij de Jumbo chocolade eieren vergiftigd,4: Honger,5.0,0.0,"['jumbo', 'jumbo', 'jumbo', 'chocolad']","['jumbo', 'jumbo', 'zegt', 'jumbo', 'chocolad', 'eier', 'vergiftigd']",0.0,10.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+473,Wat haden julie op je brood,4: Honger,1.0,0.0,['brod'],"['had', 'julie', 'brod']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+484,IK heb borrelnootjes,4: Honger,3.0,0.0,['borrelnootjes'],['borrelnootjes'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+505,Ik ga even lunchen,4: Honger,,0.0,['lunch'],"['ga', 'even', 'lunch']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+517,????  bier!!,4: Honger,,0.0,['bier'],['bier'],0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+555,"Ik heb 3 uur gewandeld in (Esbeek) en nu zit ik buiten, bij een restaurant te eten en te drinken! ???????????",4: Honger,,0.0,"['drink', 'eten', 'restaurant']","['uur', 'gewandeld', 'esbek', 'zit', 'buit', 'restaurant', 'eten', 'drink']",0.0,10.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+582,Ik kreeg vragen over. Sport en drinken ,4: Honger,,0.0,['drink'],"['kreg', 'vrag', 'sport', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+584,Ik heb een vrag over drinken,4: Honger,,0.0,['drink'],"['vrag', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+590,Vragen over drinken,4: Honger,,0.0,['drink'],"['vrag', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+596,Melk beschuit,4: Honger,3.0,0.0,"['melk', 'beschuit']","['melk', 'beschuit']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+615,Over drinken,4: Honger,,0.0,['drink'],['drink'],0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+649,Ja over je zelf en over sport en drinken,4: Honger,,0.0,['drink'],"['sport', 'drink']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,4
+699,Wij hebben rijst gegeten,4: Honger,1.0,0.0,['rijst'],"['wij', 'rijst', 'geget']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4
+704,Je hebt ook een chocolade fontein bij een suhsi restaurant jij waar wij altijd eten,4: Honger,5.0,0.0,"['eten', 'restaurant', 'chocolad']","['hebt', 'chocolad', 'fontein', 'suhsi', 'restaurant', 'jij', 'war', 'wij', 'eten']",0.0,10.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.2,0.0,0.0,1.0,0.0,0.0,0.0,4
+726,Wij gaan vanavond in een restaurant eten. In dqt restaurant hebben ze een chocolade fontein,4: Honger,5.0,0.0,"['eten', 'restaurant', 'restaurant', 'chocolad']","['wij', 'gan', 'vanavond', 'restaurant', 'eten', 'dqt', 'restaurant', 'chocolad', 'fontein']",2.0,10.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,13.0,4
+730,ik ga nu naar een restaurant,4: Honger,,1.0,['restaurant'],"['ga', 'restaurant']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,13.0,4
+743,Ik zit honing pops teeten,4: Honger,4.0,0.0,['honing'],"['zit', 'honing', 'pop', 'tet']",2.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,4
+745,Mij honing pops met melk zijn op,4: Honger,4.0,0.0,"['honing', 'melk']","['honing', 'pop', 'melk']",0.0,9.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+762,Drinken ,4: Honger,,0.0,['drink'],['drink'],0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+776,Dit drink ik,4: Honger,,0.0,['drink'],['drink'],2.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,4
+779,Doe melken water bij elkaar in een glas en drink het op,4: Honger,4.0,0.0,"['drink', 'melk']","['doe', 'melk', 'water', 'elkar', 'glas', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+799,Ik zit lekker in een restaurant,4: Honger,,1.0,['restaurant'],"['zit', 'lekker', 'restaurant']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,4
+815,Ikke doe mij maar chocolade,4: Honger,5.0,0.0,['chocolad'],"['ik', 'doe', 'chocolad']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+826,Ps julie hebben wel veel chips??????????????????????????,4: Honger,4.0,0.0,['chip'],"['ps', 'julie', 'wel', 'chip']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+831,Verzamelen bij de bier pomp??,4: Honger,,0.0,['bier'],"['verzamel', 'bier', 'pomp']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+848,Bier,4: Honger,,0.0,['bier'],['bier'],0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+887,Moet ik van de opas drinken,4: Honger,,1.0,['drink'],"['opas', 'drink']",1.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,4
+914,Hoezo heb jij er al acht gehad ik maar twee een over eten en de anderen over jullie en drinken,4: Honger,,0.0,"['drink', 'eten']","['hoezo', 'jij', 'acht', 'gehad', 'twee', 'eten', 'ander', 'jullie', 'drink']",0.0,10.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+929,Seri ik heb net chips gehaald,4: Honger,4.0,0.0,['chip'],"['seri', 'net', 'chip', 'gehaald']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,18.0,4
+991,Broodje worst,4: Honger,3.0,0.0,"['worst', 'broodj']","['broodj', 'worst']",0.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1025,Karma is een vis,4: Honger,1.0,0.0,['vis'],"['karma', 'vis']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1033,Ik doe die berichten niet flaggen maar ja ik moet eten,4: Honger,,0.0,['eten'],"['doe', 'bericht', 'flagg', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,4
+1046,Dan neem ik een wortel,4: Honger,1.0,0.0,['wortel'],"['nem', 'wortel']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1054,Ik zit mijn melk te drinken,4: Honger,4.0,0.0,"['drink', 'melk']","['zit', 'melk', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1060,Lekker drinken!! Hahahahaha??,4: Honger,,0.0,['drink'],"['lekker', 'drink', 'hahahahaha']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.9375,0.0,0.0,1.0,0.0,0.0,20.0,4
+1067,Ik moest zo hard lachen dat ik mijn drinken uit moest  spugen??????????????,4: Honger,,0.0,['drink'],"['moest', 'hard', 'lach', 'drink', 'moest', 'spug']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1100,Hallo shania wat ben je aan het doen Hoe gaat het eigenlijk met jou Wat ga je eten Ik heb zoveel vragen wat ik niet vraag hahaha????,4: Honger,,0.0,['eten'],"['hallo', 'shania', 'gat', 'eigen', 'jou', 'ga', 'eten', 'zovel', 'vrag', 'vrag', 'hahaha']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+1116,Over water drinken over groente en fruit eten als tussendoortje Over hoeveel honger Ik had en ja dat was het,4: Honger,1.0,0.0,"['fruit', 'drink', 'eten', 'honger', 'groent', 'tussendoortj']","['water', 'drink', 'groent', 'fruit', 'eten', 'tussendoortj', 'hoevel', 'honger']",0.0,10.0,1.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1124,Ik ben de drinken,4: Honger,,0.0,['drink'],['drink'],0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,4
+1155,Komende restaurant Noordwijkerhout stel je over iemand die,4: Honger,,0.0,['restaurant'],"['komend', 'restaurant', 'noordwijkerhout', 'stel']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4
+1158,Ik ben thee aan het drinken,4: Honger,2.0,1.0,"['drink', 'thee']","['thee', 'drink']",2.0,11.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4
+1186,Lekker ik neem ook wat drinken,4: Honger,,2.0,['drink'],"['lekker', 'nem', 'drink']",2.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,14.0,4
+1207,Ik wil dit zo graag drinken like als je dat ook wilt.????,4: Honger,,1.0,['drink'],"['grag', 'drink', 'lik', 'wilt']",2.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,4
+1230,Thx voor de chocolade ???? ,4: Honger,5.0,0.0,['chocolad'],"['thx', 'chocolad']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1231,Had jij ook iets met zo'n tussendoortje en water enzo??,4: Honger,,0.0,['tussendoortj'],"['jij', 'tussendoortj', 'water', 'enzo']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1232,Had jij ook iets met water en fruit??,4: Honger,2.0,0.0,['fruit'],"['jij', 'water', 'fruit']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1238,Het menu moeten weg,4: Honger,,0.0,['menu'],"['menu', 'moet', 'weg']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1242,Yeahhh boyyyyyyy! Dit is een gezond Mac Donalds ??,4: Honger,,2.0,['gezond'],"['yeahh', 'boyy', 'gezond', 'mac', 'donald']",2.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,15.0,4
+1259,Lopen op de grond dat is gezond,4: Honger,,0.0,['gezond'],"['lop', 'grond', 'gezond']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,15.0,4
+1272,Vitaminis van lidl,4: Honger,,0.0,['lidl'],"['vitaminis', 'lidl']",0.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1285,"Ja, over waarom ik water drink",4: Honger,,0.0,['drink'],"['waarom', 'water', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1298,Ik smook ik drink ik leeg,4: Honger,,0.0,['drink'],"['smok', 'drink', 'leg']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.4666666666666666,0.0,0.0,1.0,0.0,0.0,20.0,4
+1307,R.I.P cheeseburger van mac donalds,4: Honger,3.0,0.0,['cheeseburger'],"['cheeseburger', 'mac', 'donald']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1308,Ben nu bij de lidl,4: Honger,,0.0,['lidl'],['lidl'],0.0,9.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1317,Ik drink nu tea,4: Honger,,0.0,['drink'],"['drink', 'tea']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1331,Ik drink cola op mijn avatar,4: Honger,4.0,1.0,"['drink', 'cola']","['drink', 'cola', 'avatar']",0.0,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,20.0,4
+1339,Wat zou je liever willen echte mac of fruit mac,4: Honger,2.0,0.0,['fruit'],"['liever', 'will', 'echt', 'mac', 'fruit', 'mac']",2.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.0,0.0,0.0,0.0,1.0,14.0,4
+1365,Weet nie moet nog melken,4: Honger,4.0,0.0,['melk'],"['wet', 'nie', 'melk']",0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+1366,Moet melken,4: Honger,4.0,0.0,['melk'],['melk'],0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+1368,Wie heeft nu al vragen gehad van drinken en sport enzo? Want ik wel ,4: Honger,,0.0,['drink'],"['vrag', 'gehad', 'drink', 'sport', 'enzo', 'wel']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,4
+1394,Over als kinderen uit je klas energie drankjes drinken dat ik dat ook doe,4: Honger,,0.0,"['drink', 'drankjes']","['kinder', 'klas', 'energie', 'drankjes', 'drink', 'doe']",0.0,10.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1402,Ze hebben wat gevraagd over water en eten en mijn familie en over sport,4: Honger,,0.0,['eten'],"['gevraagd', 'water', 'eten', 'familie', 'sport']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1404,Hahahah bier,4: Honger,,0.0,['bier'],"['hahahah', 'bier']",0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1410,Ik over drinken en sporten,4: Honger,,0.0,['drink'],"['drink', 'sport']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1413,Ik heb vragen gehad over snacks,4: Honger,,0.0,['snack'],"['vrag', 'gehad', 'snack']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1416,K had weer vragen over wat ik Drink,4: Honger,,0.0,['drink'],"['wer', 'vrag', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+1426,Ik heb net ook weer een vragenlijst gehad en het ging over hoeveel je klasgenootjes denk ik drinken,4: Honger,,0.0,['drink'],"['net', 'wer', 'vragenlijst', 'gehad', 'ging', 'hoevel', 'klasgenootjes', 'denk', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,17.0,4
+1428,We hebben wel afgesproken om in de kantine te gaan drinken,4: Honger,,0.0,['drink'],"['we', 'wel', 'afgesprok', 'kantin', 'gan', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1453,Ik had het zelfde als lise-lotte ik heb vragen gekregen Zoals vriendinnen klas eten en drinken en bijna alles van Liselote had ik ook,4: Honger,,0.0,"['drink', 'eten']","['zelfd', 'lis', 'lot', 'vrag', 'gekreg', 'zoal', 'vriendinn', 'klas', 'eten', 'drink', 'bijna', 'liselot']",0.0,11.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1455,Ik hoef geen melk yaden,4: Honger,4.0,0.0,['melk'],"['hoef', 'melk', 'yad']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+1456,Over drinken sport vrienden en klasgenoten,4: Honger,,0.0,['drink'],"['drink', 'sport', 'vriend', 'klasgenot']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1461,Ovee drinken,4: Honger,,0.0,['drink'],"['ovee', 'drink']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+1472,Nu heb ik er 4 gehad waaronder 1 over water drinken??,4: Honger,,1.0,['drink'],"['gehad', 'waaronder', 'water', 'drink']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4
+1486,BIer,4: Honger,,0.0,['bier'],['bier'],0.0,14.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1488,1 over sport en drinken en de andere algemene kennis,4: Honger,,0.0,['drink'],"['sport', 'drink', 'algemen', 'kennis']",0.0,15.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.2333333333333333,0.0,0.0,1.0,0.0,0.0,18.0,4
+1513,Gijs radijs,4: Honger,2.0,0.0,['radijs'],"['gijs', 'radijs']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4
+1520,Ik ging drinken in de auto en we maken een bocht en het ging over mij heen dus daarom zaten we in de deuk,4: Honger,,0.0,['drink'],"['ging', 'drink', 'auto', 'we', 'mak', 'bocht', 'ging', 'hen', 'daarom', 'zat', 'we', 'deuk']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1523,Brent zijn lunch,4: Honger,,1.0,['lunch'],"['brent', 'lunch']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,4
+1528,Als brent op dieet is,4: Honger,,1.0,['dieet'],"['brent', 'dieet']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,4
+1539,Thx ik zit nu in een restaurant in nijkerk,4: Honger,,0.0,['restaurant'],"['thx', 'zit', 'restaurant', 'nijkerk']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1551,Ik heb net cola gehaald,4: Honger,4.0,1.0,['cola'],"['net', 'cola', 'gehaald']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,1.0,1.0,0.0,0.0,20.0,4
+1569,Zo (on) gezond??????,4: Honger,,0.0,['gezond'],"['on', 'gezond']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,18.0,4
+1587,Drink dan water,4: Honger,,0.0,['drink'],"['drink', 'water']",0.0,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1606,Drink jij water,4: Honger,,0.0,['drink'],"['drink', 'jij', 'water']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1613,MIjn opa en snoepjes boterhammen en nog veel meer,4: Honger,2.0,0.0,['boterhamm'],"['opa', 'snoepjes', 'boterhamm']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1654,Ik ben ik ben ik ben ik ben ik ben ik ben Lheebroek ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben ik ben Jip Ik ben ik ben ik ben chocolade Deep ik ben ik ben ik ben ik ben ik ben ik ben chocolade,4: Honger,5.0,0.0,"['chocolad', 'chocolad']","['lheebroek', 'jip', 'chocolad', 'dep', 'chocolad']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4
+1667,Waneer thomas hoe laay,4: Honger,4.0,0.0,['lay'],"['waner', 'thomas', 'lay']",0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,15.0,4
+1680,Doe een glas water drinken,4: Honger,,0.0,['drink'],"['doe', 'glas', 'water', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+1681,Doe een heel glas water drinken,4: Honger,,0.0,['drink'],"['doe', 'hel', 'glas', 'water', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0.0,0.0,1.0,0.0,0.0,19.0,4
+1685,Ik drink bier,4: Honger,,0.0,"['bier', 'drink']","['drink', 'bier']",0.0,10.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+1687,Durf jij een glas water en melk door elkaar te drinken,4: Honger,4.0,0.0,"['drink', 'melk']","['durf', 'jij', 'glas', 'water', 'melk', 'elkar', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,4
+1696,Ik ga nu naar dijn en faas keuk he,4: Honger,,0.0,['keuk'],"['ga', 'dijn', 'fas', 'keuk', 'he']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,15.0,4
+1741,Kom pleasss we zijn aan het chillen met drinken,4: Honger,,0.0,['drink'],"['kom', 'pleas', 'we', 'chill', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1767,We zijn aan het drinken roqi en ik,4: Honger,,0.0,['drink'],"['we', 'drink', 'roqi']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1785,Hallo melk,4: Honger,4.0,0.0,['melk'],"['hallo', 'melk']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,4
+1826,Ik zit in de keuken niks eigenlijk had net een danoontje gegeten,4: Honger,,0.0,['keuk'],"['zit', 'keuk', 'nik', 'eigen', 'net', 'danoontj', 'geget']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.275,0.0,0.0,1.0,0.0,0.0,0.0,4
+1827,Het is zaterdag vandaar doe ik niet mee en ik had honger haha ??,4: Honger,,0.0,['honger'],"['zaterdag', 'vandar', 'doe', 'mee', 'honger', 'haha']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4
+1890,Samen lopen jack naar school om 08:00?????????????????????????????? maar eerst water drinken,4: Honger,,0.0,['drink'],"['sam', 'lop', 'jack', 'schol', '08', '00', 'eerst', 'water', 'drink']",1.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,0.0,1.0,0.0,14.0,4
+1891,Ga water drinken ,4: Honger,,0.0,['drink'],"['ga', 'water', 'drink']",1.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,4
+1929,Nee cookie clicker,4: Honger,4.0,1.0,['cookie'],"['nee', 'cookie', 'clicker']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,4
+1940,Ik drink genoeg water haha,4: Honger,,0.0,['drink'],"['drink', 'genoeg', 'water', 'haha']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+1943,Wij gingen ijsje eten bij het kinderkoor ?? En niet zingen met dit warme weer????,4: Honger,,0.0,['eten'],"['wij', 'ging', 'ijsj', 'eten', 'kinderkor', 'zing', 'warm', 'wer']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7000000000000001,0.0,0.0,1.0,0.0,0.0,18.0,4
+1945,Doe mij maar bier ieder kwartier sturen naar Gijs Oude Hengel,4: Honger,,0.0,['bier'],"['doe', 'bier', 'ieder', 'kwartier', 'stur', 'gijs', 'oud', 'hengel']",0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.32499999999999996,0.0,0.0,1.0,0.0,0.0,16.0,4
+1946,Doe mij maar bier doe mee pas moet je doen als lekker bier,4: Honger,,0.0,"['bier', 'bier']","['doe', 'bier', 'doe', 'mee', 'pas', 'lekker', 'bier']",0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,4
+1947,Doe de bananen Shake,4: Honger,2.0,0.0,['banan'],"['doe', 'banan', 'shak']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+1950,Wat doe je Wat doe je Ik weet het al Je doet bier drinken bier drinken bier drinken heel vaak heel vaak heel,4: Honger,,0.0,"['bier', 'bier', 'bier', 'drink', 'drink', 'drink']","['doe', 'doe', 'wet', 'doet', 'bier', 'drink', 'bier', 'drink', 'bier', 'drink', 'hel', 'vak', 'hel', 'vak', 'hel']",0.0,11.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.0,0.13333333333333333,0.0,0.0,1.0,0.0,0.0,16.0,4
+1952,En het enegste wat ik nu doe is water drinken,4: Honger,,0.0,['drink'],"['enegst', 'doe', 'water', 'drink']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+1955,Ga ik zo drinken,4: Honger,,0.0,['drink'],"['ga', 'drink']",2.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,4
+1962,Lekker wortels,4: Honger,1.0,0.0,['wortel'],"['lekker', 'wortel']",2.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,18.0,4
+1975,Neem een pil in zodat je niet hard gild en zwanger word,4: Honger,,0.0,['pil'],"['nem', 'pil', 'zodat', 'hard', 'gild', 'zwanger', 'word']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.05,0.0,0.0,1.0,0.0,0.0,17.0,4
+1994,Drinken,4: Honger,,0.0,['drink'],['drink'],2.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,4
+2043,Oke doe waater en melk bij elkaar,4: Honger,4.0,0.0,['melk'],"['oke', 'doe', 'waater', 'melk', 'elkar']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,4
+2065,Ja drinken,4: Honger,,0.0,['drink'],['drink'],0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,4
+2072,Ik stuur een appje als ik klaar ben met eten en dat doe jij ook en kom jij naar mij toe,4: Honger,,0.0,['eten'],"['stur', 'appj', 'klar', 'eten', 'doe', 'jij', 'kom', 'jij', 'toe']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.1416666666666666,0.0,0.0,1.0,0.0,0.0,16.0,4
+2106,Weet je welke drinke leker is ,4: Honger,,0.0,['drink'],"['wet', 'welk', 'drink', 'leker']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,4
+2145,"Chips,reep shocola en ufos",4: Honger,4.0,0.0,['chip'],"['chip', 'rep', 'shocola', 'ufos']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4
+2146,"Chips, chocoladereep, ufos en water",4: Honger,5.0,0.0,"['chip', 'chocoladerep']","['chip', 'chocoladerep', 'ufos', 'water']",0.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,4

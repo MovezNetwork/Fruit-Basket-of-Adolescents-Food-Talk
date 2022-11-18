@@ -1,0 +1,150 @@
+,Text,Topic,Rating,Likes,Food,Broad Filter,Media,Age,Gender,food,supermarkets,related,drinks,slang,diet,meals,Dmeals,words_no,Polarity,restaurants,brands,Media_0,Media_1,Media_2,topic_no
+2,Ik heb honger,4: Drinken,,2,['honger'],['honger'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+3,Ik ben kort en pittig,4: Drinken,,1,['pittig'],"['kort', 'pittig']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16666666666666666,0.0,0.0,1.0,0.0,0.0,4
+11,Wie zn brood lekker? :-P ,4: Drinken,1.2,2,['brod'],"['zn', 'brod', 'lekker']",1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.675,0.0,0.0,0.0,1.0,0.0,4
+31,Nog steeds honger,4: Drinken,,1,['honger'],"['sted', 'honger']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+38,Tasty,4: Drinken,,4,['tasty'],['tasty'],2.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+41,HIER KRIJG IK ZO'N HONGER VAN!!!????,4: Drinken,,0,['honger'],"['krijg', 'honger']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+48,Ik krijg echt honger van die plaatjes ????????????????????????????????????????????,4: Drinken,,1,['honger'],"['krijg', 'echt', 'honger', 'plaatjes']",2.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.0,0.0,0.0,0.0,1.0,4
+70,Hallo jumbo??????,4: Drinken,,0,['jumbo'],"['hallo', 'jumbo']",0.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+80,Hallo jumbo,4: Drinken,,0,['jumbo'],"['hallo', 'jumbo']",0.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+87,Wa eten julliw?,4: Drinken,,0,['eten'],"['wa', 'eten', 'julliw']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+95,Jumbo,4: Drinken,,0,['jumbo'],['jumbo'],0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+96,Ken je dat opname microfoontje aan je scherm en nou dan zie je zo als ik je inspreek jibbe  dan ja dan krijg je Jumbo,4: Drinken,,0,['jumbo'],"['ken', 'opnam', 'microfoontj', 'scherm', 'nou', 'zie', 'insprek', 'jibb', 'krijg', 'jumbo']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+97,Goede reclame voor de Jumbo????,4: Drinken,,0,['jumbo'],"['goed', 'reclam', 'jumbo']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,4
+98,Dat van jumbo neem het niet sirrieus,4: Drinken,,0,['jumbo'],"['jumbo', 'nem', 'sirrieus']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+121,Ik krijg honger,4: Drinken,,0,['honger'],"['krijg', 'honger']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+131,Ik heb ook honger stein,4: Drinken,,2,['honger'],"['honger', 'stein']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+135,Ik zie jou maar jij zoet mij niet laat maar,4: Drinken,,0,['zoet'],"['zie', 'jou', 'jij', 'zoet', 'lat']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.275,0.0,0.0,1.0,0.0,0.0,4
+155,NU heb ik honger!!??,4: Drinken,,0,['honger'],['honger'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+161,"Nu moet ik echt eten, bay!!!",4: Drinken,,0,['eten'],"['echt', 'eten', 'bay']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.390625,0.0,0.0,1.0,0.0,0.0,4
+228,Jij zegt tegen ons dat jij juist niet van groente houd??,4: Drinken,1.0,0,['groent'],"['jij', 'zegt', 'jij', 'juist', 'groent', 'houd']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,4
+297,Bakker er  geen chocolade van,4: Drinken,5.0,0,['chocolad'],"['bakker', 'chocolad']",1.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,4
+301,Bij deze foto krijg ik honger.     Jullie ook,4: Drinken,,0,['honger'],"['foto', 'krijg', 'honger', 'jullie']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+339,Ghandi is mijn oom geef hem een wc alsjeblieft mijn koelkast heer yoki,4: Drinken,,0,['koelkast'],"['ghandi', 'oom', 'gef', 'wc', 'alsjeblieft', 'koelkast', 'her', 'yoki']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+344,Honger,4: Drinken,,0,['honger'],['honger'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+369,Norah slurpt haar drinken naar binnen,4: Drinken,,2,['drink'],"['norah', 'slurpt', 'drink', 'binn']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,4
+373,Nu weer vragen gehad ??           pannekoeken gegeten????,4: Drinken,2.4,3,['pannekoek'],"['wer', 'vrag', 'gehad', 'pannekoek', 'geget']",1.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,4
+384,En ik heb honger,4: Drinken,,0,['honger'],['honger'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+388,Eerst boris uitlaten en even wat drinken,4: Drinken,,0,['drink'],"['eerst', 'boris', 'uitlat', 'even', 'drink']",0.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+421,In je koelkast,4: Drinken,,0,['koelkast'],['koelkast'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+456,Je moet eten en drinken en stil zijn,4: Drinken,,0,"['drink', 'eten']","['eten', 'drink', 'stil']",0.0,10.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,-0.06666666666666667,0.0,0.0,1.0,0.0,0.0,4
+464,Jumbo Jumbo zegt hij is bij de Jumbo chocolade eieren vergiftigd,4: Drinken,5.0,0,"['jumbo', 'jumbo', 'jumbo', 'chocolad']","['jumbo', 'jumbo', 'zegt', 'jumbo', 'chocolad', 'eier', 'vergiftigd']",0.0,10.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+481,Ik heb honger????,4: Drinken,,2,['honger'],['honger'],1.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,4
+513,Yummie,4: Drinken,,1,['yummie'],['yummie'],0.0,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+519,Wees maar bljj dat je het niet dee ik was aan het eten,4: Drinken,,0,['eten'],"['wes', 'bljj', 'dee', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+537,Heb honger jongen,4: Drinken,,0,['honger'],"['honger', 'jong']",2.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+538,Heb honger,4: Drinken,,0,['honger'],['honger'],2.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+549,Je krijgt morgen snoep als je lief doet ,4: Drinken,4.4,0,['snoep'],"['krijgt', 'morg', 'snoep', 'lief', 'doet']",0.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6333333333333333,0.0,0.0,1.0,0.0,0.0,4
+550,Kauw kauw... Ah ik krijg het niet doorgeslikt,4: Drinken,,2,"['kauw', 'kauw']","['kauw', 'kauw', 'ah', 'krijg', 'doorgeslikt']",1.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,4
+555,"Ik heb 3 uur gewandeld in (Esbeek) en nu zit ik buiten, bij een restaurant te eten en te drinken! ???????????",4: Drinken,,0,"['drink', 'eten', 'restaurant']","['uur', 'gewandeld', 'esbek', 'zit', 'buit', 'restaurant', 'eten', 'drink']",0.0,10.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+598,Wat zij ik net en ik moet eten zie je op school??,4: Drinken,,0,['eten'],"['net', 'eten', 'zie', 'schol']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,4
+600,Demi je maakt mij heel honger,4: Drinken,,0,['honger'],"['demi', 'maakt', 'hel', 'honger']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0.0,0.0,1.0,0.0,0.0,4
+601,Jayce Help Me Demi maakt mij honger,4: Drinken,,0,['honger'],"['jayc', 'help', 'demi', 'maakt', 'honger']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+602,Door al dat praten heb ik geen honger meer veel,4: Drinken,,0,['honger'],"['prat', 'honger']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+610,Ik lig met diesel op de bank maar heb zin om naar jou te lopen en thee voor de buikpijn te maken,4: Drinken,2.0,0,['thee'],"['lig', 'diesel', 'bank', 'zin', 'jou', 'lop', 'thee', 'buikpijn', 'mak']",0.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,4
+629,Ik heb ook honger,4: Drinken,,0,['honger'],['honger'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+630,Mijn tel ging bijna in de vla,4: Drinken,2.3,0,['vla'],"['tel', 'ging', 'bijna', 'vla']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+633,Ik heb er niet zin in om te eten hhahaha,4: Drinken,,0,['eten'],"['zin', 'eten', 'hhahaha']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+634,??????wie heeft er honger,4: Drinken,,0,['honger'],['honger'],0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+641,Ik krijg er honger van,4: Drinken,,0,['honger'],"['krijg', 'honger']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+645,Ja demi zo nu eten,4: Drinken,,0,['eten'],"['demi', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+646,Nu effe eten beren honger,4: Drinken,,0,"['eten', 'honger']","['eff', 'eten', 'ber', 'honger']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+649,Ja over je zelf en over sport en drinken,4: Drinken,,0,['drink'],"['sport', 'drink']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+679,Beetje vroeg maar boeie we hadden honger van het schaatsen,4: Drinken,,0,['honger'],"['beetj', 'vroeg', 'boei', 'we', 'had', 'honger', 'schaats']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.1,0.0,0.0,1.0,0.0,0.0,4
+704,Je hebt ook een chocolade fontein bij een suhsi restaurant jij waar wij altijd eten,4: Drinken,5.0,0,"['eten', 'restaurant', 'chocolad']","['hebt', 'chocolad', 'fontein', 'suhsi', 'restaurant', 'jij', 'war', 'wij', 'eten']",0.0,10.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.2,0.0,0.0,1.0,0.0,0.0,4
+726,Wij gaan vanavond in een restaurant eten. In dqt restaurant hebben ze een chocolade fontein,4: Drinken,5.0,0,"['eten', 'restaurant', 'restaurant', 'chocolad']","['wij', 'gan', 'vanavond', 'restaurant', 'eten', 'dqt', 'restaurant', 'chocolad', 'fontein']",2.0,10.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+769,Ik krijg honger van dat plaatje:-D ,4: Drinken,,0,['honger'],"['krijg', 'honger', 'plaatj']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+771,Ik krijg er honger van leuke haar kleur ??????????????????????????????????????????????????????????,4: Drinken,,0,['honger'],"['krijg', 'honger', 'leuk', 'kleur']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,4
+772,Gum gum morgen nog wat mag je morgen nog honger,4: Drinken,,0,['honger'],"['gum', 'gum', 'morg', 'mag', 'morg', 'honger']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+773,Morgen nog honger,4: Drinken,,0,['honger'],"['morg', 'honger']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+799,Ik zit lekker in een restaurant,4: Drinken,,1,['restaurant'],"['zit', 'lekker', 'restaurant']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,4
+847,Poeder suiker mee,4: Drinken,4.0,0,['suiker'],"['poeder', 'suiker', 'mee']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+868,Lekker ik heb honger als ik dat zie,4: Drinken,,0,['honger'],"['lekker', 'honger', 'zie']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,4
+887,Moet ik van de opas drinken,4: Drinken,,1,['drink'],"['opas', 'drink']",1.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,4
+901,Heb honger!!!!!,4: Drinken,,0,['honger'],['honger'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+914,Hoezo heb jij er al acht gehad ik maar twee een over eten en de anderen over jullie en drinken,4: Drinken,,0,"['drink', 'eten']","['hoezo', 'jij', 'acht', 'gehad', 'twee', 'eten', 'ander', 'jullie', 'drink']",0.0,10.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+998,Heb jij geen honger,4: Drinken,,0,['honger'],"['jij', 'honger']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1037,Honger??,4: Drinken,,0,['honger'],['honger'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1040,Jawel ik lig in bed de hele dag al bijna eten en weer naar bed,4: Drinken,,0,['eten'],"['jawel', 'lig', 'bed', 'hel', 'dag', 'bijna', 'eten', 'wer', 'bed']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.2583333333333333,0.0,0.0,1.0,0.0,0.0,4
+1060,Lekker drinken!! Hahahahaha??,4: Drinken,,0,['drink'],"['lekker', 'drink', 'hahahahaha']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.9375,0.0,0.0,1.0,0.0,0.0,4
+1087,Lepel,4: Drinken,,0,['lepel'],['lepel'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1115,Maar je moet wel zelf bord en lepel meenemen ,4: Drinken,,0,['lepel'],"['wel', 'bord', 'lepel', 'meenem']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1116,Over water drinken over groente en fruit eten als tussendoortje Over hoeveel honger Ik had en ja dat was het,4: Drinken,1.25,0,"['fruit', 'drink', 'eten', 'honger', 'groent', 'tussendoortj']","['water', 'drink', 'groent', 'fruit', 'eten', 'tussendoortj', 'hoevel', 'honger']",0.0,10.0,1.0,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1132,Ik krijg al honger als ik het zie,4: Drinken,,1,['honger'],"['krijg', 'honger', 'zie']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1133,Wie mij als eerst aanraakt krijgt een gebakke ei,4: Drinken,4.0,0,['gebak'],"['eerst', 'aanraakt', 'krijgt', 'gebak', 'ei']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1155,Komende restaurant Noordwijkerhout stel je over iemand die,4: Drinken,,0,['restaurant'],"['komend', 'restaurant', 'noordwijkerhout', 'stel']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1158,Ik ben thee aan het drinken,4: Drinken,2.0,1,"['drink', 'thee']","['thee', 'drink']",2.0,11.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1163,Ik krijg honger als ik dit zie??????,4: Drinken,,0,['honger'],"['krijg', 'honger', 'zie']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1200,Creusly met melk ook lekker??,4: Drinken,3.6,0,['melk'],"['creusly', 'melk', 'lekker']",2.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,4
+1217,Nu heb ik dorst??,4: Drinken,,0,['dorst'],['dorst'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1226,Maar heb je honger,4: Drinken,,0,['honger'],['honger'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1231,Had jij ook iets met zo'n tussendoortje en water enzo??,4: Drinken,,0,['tussendoortj'],"['jij', 'tussendoortj', 'water', 'enzo']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1232,Had jij ook iets met water en fruit??,4: Drinken,1.5,0,['fruit'],"['jij', 'water', 'fruit']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1251,Ik heb een foto vraag net gekregen en ik was aan het eten,4: Drinken,,0,['eten'],"['foto', 'vrag', 'net', 'gekreg', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,4
+1260,Lopen op de grond dat is gezond,4: Drinken,,0,['gezond'],"['lop', 'grond', 'gezond']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,4
+1264,Like als je honger krijgt,4: Drinken,,4,['honger'],"['lik', 'honger', 'krijgt']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1267,Ik krijg dorst,4: Drinken,,0,['dorst'],"['krijg', 'dorst']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1270,Ik krijg dorst like??,4: Drinken,,1,['dorst'],"['krijg', 'dorst', 'lik']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1271,Dorst ??,4: Drinken,,0,['dorst'],['dorst'],2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1274,HONGER??,4: Drinken,,0,['honger'],['honger'],0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1305,Ik zit een kipcorn te eten,4: Drinken,2.0,0,"['kipcorn', 'eten']","['zit', 'kipcorn', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1306, Wat eten jullie ik patatjes met kipcorn,4: Drinken,3.0,0,"['patatjes', 'kipcorn', 'eten']","['eten', 'jullie', 'patatjes', 'kipcorn']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1334,Moet je vanavond ook een foto maken van je avondeten?,4: Drinken,,1,['avondet'],"['vanavond', 'foto', 'mak', 'avondet']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1335,Moet je nog een foto maken van je eten?,4: Drinken,,0,['eten'],"['foto', 'mak', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1336,Je kan helaas geen foto maken van het eten. Weten jullie misschien iets?,4: Drinken,,0,['eten'],"['helas', 'foto', 'mak', 'eten', 'wet', 'jullie', 'misschien']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1338,Je moer de telefoon meenemen. Want op school om 12 uur moet he foto maken van je eten. En in pauzes krijg je vragen. ,4: Drinken,,0,['eten'],"['moer', 'telefon', 'meenem', 'schol', '12', 'uur', 'he', 'foto', 'mak', 'eten', 'pauzes', 'krijg', 'vrag']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1349,Tijn rikhof moet jij dan de foto niet maken van je eten,4: Drinken,,0,['eten'],"['tijn', 'rikhof', 'jij', 'foto', 'mak', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1350,Hebben nog niet gegeten heb heel veel honger,4: Drinken,,0,['honger'],"['geget', 'hel', 'honger']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0.0,0.0,1.0,0.0,0.0,4
+1361,Hoe kun je foto's maken van je eten,4: Drinken,,0,['eten'],"['kun', 'foto', 'mak', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1369,Wie heeft nu al vragen gehad van drinken en sport enzo? Want ik wel ,4: Drinken,,0,['drink'],"['vrag', 'gehad', 'drink', 'sport', 'enzo', 'wel']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1371,Het maakt muziek en zit in de koelkast rara wat is het ??????    :,4: Drinken,,1,['koelkast'],"['maakt', 'muziek', 'zit', 'koelkast', 'rara']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1381,Ik krijg eeneens vragen.  Over wat jullie per dag drinken,4: Drinken,,0,['drink'],"['krijg', 'eenen', 'vrag', 'jullie', 'per', 'dag', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1396,Gisteren heb ik een appel en een peer gehad dat was het enige want ik kon bijna niks eten,4: Drinken,2.0,1,"['appel', 'eten']","['gister', 'appel', 'per', 'gehad', 'enig', 'bijna', 'nik', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.55,0.0,0.0,1.0,0.0,0.0,4
+1403,Ze hebben wat gevraagd over water en eten en mijn familie en over sport,4: Drinken,,0,['eten'],"['gevraagd', 'water', 'eten', 'familie', 'sport']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1411,Ik over drinken en sporten,4: Drinken,,0,['drink'],"['drink', 'sport']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1414,Ik heb vragen gehad over snacks,4: Drinken,,0,['snack'],"['vrag', 'gehad', 'snack']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1423,Ik moet nog eten ik lig nog in bed dus,4: Drinken,,0,['eten'],"['eten', 'lig', 'bed']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1427,Ik heb net ook weer een vragenlijst gehad en het ging over hoeveel je klasgenootjes denk ik drinken,4: Drinken,,0,['drink'],"['net', 'wer', 'vragenlijst', 'gehad', 'ging', 'hoevel', 'klasgenootjes', 'denk', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,4
+1428,Saar dat  ginh jij direct weg want ee gingen samrn met het team drinken en toen  toen wij aankwamen was jij al weg en dat was niet afgesproken,4: Drinken,,0,['drink'],"['sar', 'ginh', 'jij', 'direct', 'weg', 'ee', 'ging', 'samrn', 'team', 'drink', 'wij', 'aankwam', 'jij', 'weg', 'afgesprok']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,1.0,0.0,0.0,4
+1436,Stock stof dip,4: Drinken,3.8,0,['dip'],"['stock', 'stof', 'dip']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1439,Oke heb honger,4: Drinken,,0,['honger'],"['oke', 'honger']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1471,Ik was tennis en zo eten,4: Drinken,,0,['eten'],"['tennis', 'eten']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1473,Nu heb ik er 4 gehad waaronder 1 over water drinken??,4: Drinken,,1,['drink'],"['gehad', 'waaronder', 'water', 'drink']",0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1482,Nu heb ik honger ??,4: Drinken,,1,['honger'],['honger'],2.0,13.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1484,Jo heeft iemand 10 cent voor me? Ik heb geen drinken bij me!! Dan krijg je het morgen terug!!,4: Drinken,,2,['drink'],"['jo', '10', 'cent', 'drink', 'krijg', 'morg', 'terug']",0.0,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1489,1 over sport en drinken en de andere algemene kennis,4: Drinken,,0,['drink'],"['sport', 'drink', 'algemen', 'kennis']",0.0,15.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.2333333333333333,0.0,0.0,1.0,0.0,0.0,4
+1514,Gijs radijs,4: Drinken,1.6,0,['radijs'],"['gijs', 'radijs']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1521,Ik ging drinken in de auto en we maken een bocht en het ging over mij heen dus daarom zaten we in de deuk,4: Drinken,,0,['drink'],"['ging', 'drink', 'auto', 'we', 'mak', 'bocht', 'ging', 'hen', 'daarom', 'zat', 'we', 'deuk']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1525,Krijgen jullie al honger,4: Drinken,,0,['honger'],"['krijg', 'jullie', 'honger']",2.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1554,Ik heb HONGER,4: Drinken,,0,['honger'],['honger'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1557,Als adam honger heeft,4: Drinken,,0,['honger'],"['adam', 'honger']",2.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1613,Ja dan krijg je snoep als je het zegt,4: Drinken,4.4,0,['snoep'],"['krijg', 'snoep', 'zegt']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1694,Ik daardelijk uit eten in den bosch bij nomnom,4: Drinken,,1,"['nomnom', 'eten']","['daardelijk', 'eten', 'den', 'bosch', 'nomnom']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1729,Wie zie ik bij de Spar,4: Drinken,,0,['spar'],"['zie', 'spar']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,4
+1735,Ben bij de bso had mijn tel in mijn broekzak 1 iemand zat naast mij en de bank trilde 2 x moest ik een foto maken wat ik aan het doen was en dat was Fruit eten,4: Drinken,1.5,0,"['fruit', 'eten']","['bso', 'tel', 'broekzak', 'zat', 'naast', 'bank', 'trild', 'moest', 'foto', 'mak', 'fruit', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.1,0.0,0.0,1.0,0.0,0.0,4
+1776,Iets uit de koelkast pakken,4: Drinken,,0,['koelkast'],"['koelkast', 'pak']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1784,En deze telefoon leid mij toch af zodat ik geen honger krijg en ik blijf toch uitrusten in bed,4: Drinken,,0,['honger'],"['telefon', 'leid', 'af', 'zodat', 'honger', 'krijg', 'blijf', 'uitrust', 'bed']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1785,"Oke,ik heb HONGER!!!",4: Drinken,,0,['honger'],"['oke', 'honger']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1824,Haha youssra van dat je zij na dit eten moet je kotsen dat is echt waar eerst gaan we zeggen IK HEB HONGEEER maar na het eten denk je STOOOOP,4: Drinken,,0,"['eten', 'eten', 'honger']","['haha', 'youssra', 'eten', 'kots', 'echt', 'war', 'eerst', 'gan', 'we', 'zegg', 'honger', 'eten', 'denk', 'stop']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.32000000000000006,0.0,0.0,1.0,0.0,0.0,4
+1850,Hallo hebben zo warm Ik heb buikpijn honger juli,4: Drinken,,0,['honger'],"['hallo', 'warm', 'buikpijn', 'honger', 'juli']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7000000000000001,0.0,0.0,1.0,0.0,0.0,4
+1872,Hep je ook honger,4: Drinken,,0,['honger'],"['hep', 'honger']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1875,Heb je ook zo honger ik wel,4: Drinken,,2,['honger'],"['honger', 'wel']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1891,Samen lopen jack naar school om 08:00?????????????????????????????? maar eerst water drinken,4: Drinken,,0,['drink'],"['sam', 'lop', 'jack', 'schol', '08', '00', 'eerst', 'water', 'drink']",1.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,0.0,1.0,0.0,4
+1902,Als je wil mag jr bij me eten,4: Drinken,,0,['eten'],"['mag', 'jr', 'eten']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1904,Ik zie jr bij mij na het eten ??,4: Drinken,,0,['eten'],"['zie', 'jr', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+1924,Nu heb ik honger,4: Drinken,,0,['honger'],['honger'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+1944,Wij gingen ijsje eten bij het kinderkoor ?? En niet zingen met dit warme weer????,4: Drinken,,0,['eten'],"['wij', 'ging', 'ijsj', 'eten', 'kinderkor', 'zing', 'warm', 'wer']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7000000000000001,0.0,0.0,1.0,0.0,0.0,4
+1989,Lekker thee aan het drinken,4: Drinken,2.0,0,"['drink', 'thee']","['lekker', 'thee', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,4
+2007,Heb jij honger ,4: Drinken,,0,['honger'],"['jij', 'honger']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+2008,Heb jij honger,4: Drinken,,0,['honger'],"['jij', 'honger']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+2016,Voor schoolreis op school snoep menemen,4: Drinken,4.4,0,['snoep'],"['schoolreis', 'schol', 'snoep', 'menem']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+2022,Heb jij ook zo honger,4: Drinken,,0,['honger'],"['jij', 'honger']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+2080,"Ja,het word bij jullie een leuke dag omdat wij suikerfeest hebben??we vieren vandaag suikerfeest bij me oma alweer en het word gezellig heel veel familie bij elkaar en gaan we lekker koekjes enzo eten",4: Drinken,,0,['eten'],"['word', 'jullie', 'leuk', 'dag', 'wij', 'suikerfeest', 'we', 'vier', 'vandag', 'suikerfeest', 'oma', 'alwer', 'word', 'gezell', 'hel', 'familie', 'elkar', 'gan', 'we', 'lekker', 'koekjes', 'enzo', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.4444444444444444,0.0,0.0,1.0,0.0,0.0,4
+2088,Niet veel maar ik wordt dar altijd heel ziek van om niet te eten en niet te drinken,4: Drinken,,0,"['drink', 'eten']","['dar', 'hel', 'ziek', 'eten', 'drink']",0.0,11.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,-1.0,0.0,0.0,1.0,0.0,0.0,4
+2090,Want anders heb ik tijdens het cito maken fet veel honger,4: Drinken,,0,['honger'],"['ander', 'tijden', 'cito', 'mak', 'fet', 'honger']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+2091,Moet je niet doen als iemand honger heeft,4: Drinken,,0,['honger'],['honger'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+2092,Moet jij voor stellen als jij honger hebt,4: Drinken,,0,['honger'],"['jij', 'stell', 'jij', 'honger', 'hebt']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,4
+2106,Niet honger,4: Drinken,,0,['honger'],['honger'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,4
+2113, Ik ben lekker thee aan het drinken??????,4: Drinken,2.0,0,"['drink', 'thee']","['lekker', 'thee', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,4
+2119,We gaan hamburgers eten!!!!!,4: Drinken,3.5,0,"['hamburger', 'eten']","['we', 'gan', 'hamburger', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,4

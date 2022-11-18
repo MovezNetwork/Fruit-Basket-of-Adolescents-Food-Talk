@@ -1,0 +1,68 @@
+,Text,Topic,Rating,Likes,Food,Broad Filter,Media,Age,Gender,food,supermarkets,related,drinks,slang,diet,meals,Dmeals,words_no,Polarity,restaurants,brands,Media_0,Media_1,Media_2,topic_no
+0,Ham kaas op een tosti,7: Craving / honger,3.4,2,"['ham', 'tosti', 'kas']","['ham', 'kas', 'tosti']",0.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1,Ham en kaas op een tosti like,7: Craving / honger,3.4,1,"['ham', 'tosti', 'kas']","['ham', 'kas', 'tosti', 'lik']",0.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+46,Een kilo kaas een kilo worst een kilo groente een kilo fruit en dan nu bestellen,7: Craving / honger,2.425,0,"['fruit', 'worst', 'kas', 'groent']","['kilo', 'kas', 'kilo', 'worst', 'kilo', 'groent', 'kilo', 'fruit', 'bestell']",0.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+50,Simon wil een kapsalon!!,7: Craving / honger,3.5,0,['kapsalon'],"['simon', 'kapsalon']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+75,Hallo albert heijn,7: Craving / honger,,2,['heijn'],"['hallo', 'albert', 'heijn']",0.0,10.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+78,Kaas vlinder,7: Craving / honger,4.0,1,['kas'],"['kas', 'vlinder']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+213,Ik ham,7: Craving / honger,2.2,0,['ham'],['ham'],0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+217,Smikkel kaas,7: Craving / honger,4.0,0,"['kas', 'smikkel']","['smikkel', 'kas']",0.0,12.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+245,Dan lust je kip gwn niet je bent geen vega ????,7: Craving / honger,2.0,0,['kip'],"['lust', 'kip', 'gwn', 'bent', 'vega']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+246,Nee dan lust je kip niet niks anders ,7: Craving / honger,2.0,0,['kip'],"['nee', 'lust', 'kip', 'nik', 'ander']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+342,Je hebt het verkeerd getypt het is tosti,7: Craving / honger,4.0,0,['tosti'],"['hebt', 'verkeerd', 'getypt', 'tosti']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.5,0.0,0.0,1.0,0.0,0.0,7
+360,Modder smikkelen,7: Craving / honger,,0,['smikkel'],"['modder', 'smikkel']",0.0,13.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+405,Ham kaas brood  = koude tosti,7: Craving / honger,2.85,0,"['ham', 'tosti', 'brod', 'kas']","['ham', 'kas', 'brod', 'koud', 'tosti']",0.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,-0.4000000000000001,0.0,0.0,1.0,0.0,0.0,7
+406,Ham kaas op brood is tosti,7: Craving / honger,2.85,0,"['ham', 'tosti', 'brod', 'kas']","['ham', 'kas', 'brod', 'tosti']",0.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+422,Ham,7: Craving / honger,2.2,0,['ham'],['ham'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+473,Wat haden julie op je brood,7: Craving / honger,1.2,0,['brod'],"['had', 'julie', 'brod']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+489,Iedereen zegt kip,7: Craving / honger,2.0,1,['kip'],"['iederen', 'zegt', 'kip']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+491,Yum,7: Craving / honger,,0,['yum'],['yum'],0.0,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+499,Ik wou kip zeggen,7: Craving / honger,2.0,1,['kip'],"['wou', 'kip', 'zegg']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+501,Waarom kip,7: Craving / honger,2.0,0,['kip'],"['waarom', 'kip']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+509,#ham ham nam,7: Craving / honger,2.2,1,"['ham', 'ham']","['ham', 'ham', 'nam']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+520,Yum yum yum #yum #im lovin it,7: Craving / honger,,1,"['yum', 'yum', 'yum', 'yum']","['yum', 'yum', 'yum', 'yum', 'im', 'lovin', 'it']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+527,Friet en jik,7: Craving / honger,4.0,0,['friet'],"['friet', 'jik']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+563,Hahaha pinda kaas,7: Craving / honger,3.8,0,"['pinda', 'kas']","['hahaha', 'pinda', 'kas']",0.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+568,Kip kip,7: Craving / honger,2.0,0,"['kip', 'kip']","['kip', 'kip']",1.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,7
+632,Taise kip?,7: Craving / honger,2.0,0,['kip'],"['tais', 'kip']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+680,Hoi lust jij kip??,7: Craving / honger,2.0,0,['kip'],"['hoi', 'lust', 'jij', 'kip']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+862,Ik een borher ham met pindakaas,7: Craving / honger,3.0,0,"['ham', 'pindakas']","['borher', 'ham', 'pindakas']",0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+885,Leker koekje hoor nam nam nam,7: Craving / honger,4.0,0,['koekj'],"['leker', 'koekj', 'hor', 'nam', 'nam', 'nam']",1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7
+1091,Donut,7: Craving / honger,4.2,0,['donut'],['donut'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1092,Het is een minnie donut,7: Craving / honger,4.2,0,['donut'],"['minnie', 'donut']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1112,Maar ik vraag me af hoe we die kip dan gaan bakken,7: Craving / honger,2.0,0,"['kip', 'bak']","['vrag', 'af', 'we', 'kip', 'gan', 'bak']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1129,Hkip kip kip kip kip kip kip kip kerststukjes,7: Craving / honger,2.0,0,"['kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip']","['hkip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kerststukjes']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1178,Nasi met kip,7: Craving / honger,1.8,0,"['kip', 'nasi']","['nasi', 'kip']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1181,Smikkel tijd,7: Craving / honger,,0,['smikkel'],"['smikkel', 'tijd']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,7
+1182,Smikkel,7: Craving / honger,,0,['smikkel'],['smikkel'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1195,Ik brood mey ei en kaas,7: Craving / honger,2.6,0,"['brod', 'kas']","['brod', 'mey', 'ei', 'kas']",0.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1221,Denken waaneer jw wen kip ben,7: Craving / honger,2.0,0,['kip'],"['denk', 'waaner', 'jw', 'wen', 'kip']",1.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7
+1239,Een kip zegt moeeee,7: Craving / honger,2.0,0,['kip'],"['kip', 'zegt', 'moee']",0.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1276,Domme kip,7: Craving / honger,2.0,0,['kip'],"['domm', 'kip']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.7,0.0,0.0,1.0,0.0,0.0,7
+1280,Wie anders kip,7: Craving / honger,2.0,1,['kip'],"['ander', 'kip']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1281,Ian heeft net een honden snoepie opgeten,7: Craving / honger,4.4,0,['snoepie'],"['ian', 'net', 'hond', 'snoepie', 'opget']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,7
+1300,Yum yum,7: Craving / honger,,1,"['yum', 'yum']","['yum', 'yum']",2.0,9.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,7
+1363,Smikkelen,7: Craving / honger,,0,['smikkel'],['smikkel'],0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1416,Het is kapsalon marita,7: Craving / honger,3.5,0,['kapsalon'],"['kapsalon', 'marita']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1512,Ik zij toch dat je geen wifi nodig hebt ik ben nu kapsalon aan het bestellen terwijlnik aan het vasten ben maar dat is voor later ,7: Craving / honger,3.5,1,['kapsalon'],"['wifi', 'nodig', 'hebt', 'kapsalon', 'bestell', 'terwijlnik', 'vast', 'later']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.125,0.0,0.0,1.0,0.0,0.0,7
+1531,Wat met kip mad ,7: Craving / honger,2.0,1,['kip'],"['kip', 'mad']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1591,Het zijn maar donuts die geschildert zijn??,7: Craving / honger,4.2,0,['donut'],"['donut', 'geschildert']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1642,Nee ik lust geen marsepein,7: Craving / honger,4.0,0,['marsepein'],"['nee', 'lust', 'marsepein']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1747,Kaas kabouet menne,7: Craving / honger,4.0,0,['kas'],"['kas', 'kabouet', 'menn']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1764,Ik kip reis en bonen ,7: Craving / honger,2.0,0,['kip'],"['kip', 'reis', 'bon']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1791,Mijn ijsje heet fruit dream hahaha,7: Craving / honger,1.5,0,['fruit'],"['ijsj', 'het', 'fruit', 'dream', 'hahaha']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03333333333333333,0.0,0.0,1.0,0.0,0.0,7
+1830,"Wat zou jij kiezen ik zou persoonlijk de gele pil nemen, Teleporter ben je er zo hahha????",7: Craving / honger,,0,['pil'],"['jij', 'kiez', 'person', 'gel', 'pil', 'nem', 'teleporter', 'hahha']",1.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7
+1884,Magnum nodig we hebben naar me nodig we hebben namen nodig hebben namen hebben we nodig hebben we nodig hebben namen nodig we hebben namen nodig Boer en dan mannen Mr Mister,7: Craving / honger,4.6,0,['magnum'],"['magnum', 'nodig', 'we', 'nodig', 'we', 'nam', 'nodig', 'nam', 'we', 'nodig', 'we', 'nodig', 'nam', 'nodig', 'we', 'nam', 'nodig', 'boer', 'mann', 'mr', 'mister']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.25,0.0,1.0,1.0,0.0,0.0,7
+1895,Wie is nou de kip???????,7: Craving / honger,2.0,0,['kip'],"['nou', 'kip']",1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7
+1971,Kip en chocola ,7: Craving / honger,3.5,0,"['kip', 'chocola']","['kip', 'chocola']",0.0,13.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1979,Fc kip,7: Craving / honger,2.0,0,['kip'],"['fc', 'kip']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+1980,Doneer luna ze zijn bijna uitgestoven ,7: Craving / honger,2.0,0,['doner'],"['doner', 'luna', 'bijna', 'uitgestov']",1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,7
+1981,Jij bent een perzik luna,7: Craving / honger,2.0,2,['perzik'],"['jij', 'bent', 'perzik', 'luna']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2019,Ik ook brood met ei,7: Craving / honger,1.2,0,['brod'],"['brod', 'ei']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2038,Iene miene mutte tien pond grutten tien pond kaas Iene miene mutte is de baas Maar als je maar jij mag de baas niet zijn want jij bent nog veel te klein People poef Jij bent de Boef,7: Craving / honger,4.0,0,['kas'],"['ien', 'mien', 'mut', 'tien', 'pond', 'grut', 'tien', 'pond', 'kas', 'ien', 'mien', 'mut', 'bas', 'jij', 'mag', 'bas', 'jij', 'bent', 'klein', 'peopl', 'poef', 'jij', 'bent', 'boef']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.2,0.0,0.0,1.0,0.0,0.0,7
+2058,Ik kip en brocoli en aardappelen,7: Craving / honger,1.7,0,"['kip', 'aardappel']","['kip', 'brocoli', 'aardappel']",0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2063,Hoi meester donut,7: Craving / honger,4.2,0,['donut'],"['hoi', 'meester', 'donut']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2064,Iets voot ensar die donut,7: Craving / honger,4.2,0,['donut'],"['vot', 'ensar', 'donut']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2076,Nou ja ensar de donut iets voor jou ????????,7: Craving / honger,4.2,0,['donut'],"['nou', 'ensar', 'donut', 'jou']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2097,Morgen met spelletjes vang de kaas,7: Craving / honger,4.0,0,['kas'],"['morg', 'spelletjes', 'vang', 'kas']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7
+2142,Wat nam jij bij de patat,7: Craving / honger,4.0,0,['patat'],"['nam', 'jij', 'patat']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7

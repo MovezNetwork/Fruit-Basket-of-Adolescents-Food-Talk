@@ -1,0 +1,377 @@
+,Text,Topic,Rating,Likes,Food,Broad Filter,Media,Age,Gender,food,supermarkets,related,drinks,slang,diet,meals,Dmeals,words_no,Polarity,restaurants,brands,Media_0,Media_1,Media_2,BMI,topic_no
+16,De pizza??????,3: Eet smakelijk,3.0,5.0,['pizza'],['pizza'],2.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,3
+19,Pizza,3: Eet smakelijk,3.0,0.0,['pizza'],['pizza'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+30,Eet smakelijk,3: Eet smakelijk,,3.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,16.0,3
+38,Tasty,3: Eet smakelijk,,4.0,['tasty'],['tasty'],2.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+43,Mjam,3: Eet smakelijk,,1.0,['mjam'],['mjam'],0.0,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+45,Eet jij dit ofzo,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij', 'ofzo']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+51,Mjam snotjes,3: Eet smakelijk,,1.0,"['mjam,', 'mjam']","['mjam', 'snotjes']",1.0,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,3
+61,Lekker smikkelen hoor,3: Eet smakelijk,,0.0,['smikkel'],"['lekker', 'smikkel', 'hor']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+62,Smakelijk eten ,3: Eet smakelijk,,4.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",2.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,16.0,3
+64,Nog wat grappen uit ge haalt hoe noem banaan die jouw plaagt een banananana,3: Eet smakelijk,2.0,0.0,['banan'],"['grapp', 'haalt', 'noem', 'banan', 'jouw', 'plaagt', 'banananana']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+69,Hoi smakelijk tot zo ,3: Eet smakelijk,,0.0,['smakelijk'],"['hoi', 'smakelijk']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+71,Lekker pizza ,3: Eet smakelijk,3.0,0.0,['pizza'],"['lekker', 'pizza']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+72,Lekker pizza eten,3: Eet smakelijk,3.0,0.0,"['pizza', 'eten']","['lekker', 'pizza', 'eten']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.6,0.0,0.0,0.0,0.0,1.0,18.0,3
+73,Lekker eten ahah,3: Eet smakelijk,,0.0,['eten'],"['lekker', 'eten', 'ahah']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,18.0,3
+74,Gaan op die banaan sem ahah,3: Eet smakelijk,2.0,0.0,['banan'],"['gan', 'banan', 'sem', 'ahah']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+82,Hey roj eet smakkelijk,3: Eet smakelijk,,0.0,['eet'],"['hey', 'roj', 'eet', 'smakkelijk']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+86,Owen eet jij niks,3: Eet smakelijk,,2.0,['eet'],"['owen', 'eet', 'jij', 'nik']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+87,Wa eten julliw?,3: Eet smakelijk,,0.0,['eten'],"['wa', 'eten', 'julliw']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+89,Wat eet jij?,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+92,Smakelijk eten iedereen tot morgen ,3: Eet smakelijk,,6.0,"['eten', 'smakelijk']","['smakelijk', 'eten', 'iederen', 'morg']",2.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,17.0,3
+93,Like iedereen op de hamburger ,3: Eet smakelijk,4.0,2.0,['hamburger'],"['lik', 'iederen', 'hamburger']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+106,Jullie smakelijk??,3: Eet smakelijk,,1.0,['smakelijk'],"['jullie', 'smakelijk']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,15.0,3
+107,Smakelijk??????????????????????????????????????????,3: Eet smakelijk,,4.0,['smakelijk'],['smakelijk'],2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,0.0,0.0,1.0,15.0,3
+108,#pizza??+??+????+kaas=??????????????,3: Eet smakelijk,4.0,3.0,"['pizza', 'kas']","['pizza', 'kas']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+109,Ik eet tortillias,3: Eet smakelijk,,1.0,['eet'],"['eet', 'tortillias']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+113,Smakelijk,3: Eet smakelijk,,2.0,['smakelijk'],['smakelijk'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+116,Ik ga niet zeggen wat ik eet ,3: Eet smakelijk,,0.0,['eet'],"['ga', 'zegg', 'eet']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,25.0,3
+120,Jullie ook smakelijk????????????????????????????????????????????????????????????????????????????????????lekker je,3: Eet smakelijk,,3.0,['smakelijk'],"['jullie', 'smakelijk', 'lekker']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+126,Eet jij al philippe,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij', 'philipp']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+142,Wat eet je,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+151,Ik eet nom nom ijs ,3: Eet smakelijk,4.0,0.0,"['ijs', 'eet']","['eet', 'nom', 'nom', 'ijs']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+168,Eet op,3: Eet smakelijk,,0.0,['eet'],['eet'],2.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,20.0,3
+183,"Ja man ik ben aan het eten, Smakelijk ieder1",3: Eet smakelijk,,2.0,"['eten', 'smakelijk']","['man', 'eten', 'smakelijk', 'ieder1']",0.0,11.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+193,Eet op nu,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+199,Like als je eet,3: Eet smakelijk,,3.0,['eet'],"['lik', 'eet']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+205,Lekker smikkelen,3: Eet smakelijk,,0.0,['smikkel'],"['lekker', 'smikkel']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+216,Hoiemond man kom niet poepen yonis donuts,3: Eet smakelijk,4.0,0.0,['donut'],"['hoiemond', 'man', 'kom', 'poep', 'yonis', 'donut']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+217,Smikkel kaas,3: Eet smakelijk,4.0,0.0,"['kas', 'smikkel']","['smikkel', 'kas']",0.0,12.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+220,ONTbijten,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+222,Ik pizzzzzzza,3: Eet smakelijk,3.0,0.0,['pizza'],['pizza'],0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+229,Mohammed je bent vegetarir als je helemaal geen vlees eet??,3: Eet smakelijk,2.0,1.0,"['vles', 'eet']","['mohammed', 'bent', 'vegetarir', 'helemal', 'vles', 'eet']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+233,Pacman eet alles op,3: Eet smakelijk,,0.0,['eet'],"['pacman', 'eet']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+234, Eet smakelijk!,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.875,0.0,0.0,1.0,0.0,0.0,16.0,3
+240,Ik eet aleen maar rundvlees en vis ,3: Eet smakelijk,2.0,0.0,"['vis', 'rundvles', 'eet']","['eet', 'alen', 'rundvles', 'vis']",0.0,12.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+244,Its ok brads,3: Eet smakelijk,2.0,0.0,['brad'],"['its', 'ok', 'brad']",0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+259, kom we gaan pizza eten super lekkere pizza,3: Eet smakelijk,3.0,0.0,"['pizza', 'pizza', 'eten']","['kom', 'we', 'gan', 'pizza', 'eten', 'super', 'lekker', 'pizza']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+262, Ok eet smaakkelijk,3: Eet smakelijk,,0.0,['eet'],"['ok', 'eet', 'smaakkelijk']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+263,Eet smaakkelijk ????????????,3: Eet smakelijk,,0.0,['eet'],"['eet', 'smaakkelijk']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+291,Mmmmmmm pizza,3: Eet smakelijk,3.0,0.0,['pizza'],"['mmm', 'pizza']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+324,Appel,3: Eet smakelijk,2.0,0.0,['appel'],['appel'],2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,3
+331,"Jette, dat noem je appel? ??",3: Eet smakelijk,2.0,0.0,['appel'],"['jet', 'noem', 'appel']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+337,Like voor een pizza 1like =1pizza,3: Eet smakelijk,3.0,1.0,['pizza'],"['lik', 'pizza', '1lik', '1pizza']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+338,Wat is lekker kebab of shoarma,3: Eet smakelijk,2.0,0.0,['kebab'],"['lekker', 'kebab', 'shoarma']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,3
+345,Ik eet appel,3: Eet smakelijk,2.0,0.0,"['appel', 'eet']","['eet', 'appel']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+348,So yummy,3: Eet smakelijk,,2.0,['yummy'],"['so', 'yummy']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,3
+354,Yoghurt,3: Eet smakelijk,2.0,0.0,['yoghurt'],['yoghurt'],2.0,13.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,3
+359,Ijs ,3: Eet smakelijk,4.0,1.0,['ijs'],['ijs'],2.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,3
+360,Modder smikkelen,3: Eet smakelijk,,0.0,['smikkel'],"['modder', 'smikkel']",0.0,13.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+363,Pizza hahaha sanne,3: Eet smakelijk,3.0,0.0,['pizza'],"['pizza', 'hahaha', 'sann']",0.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+366,Noodles,3: Eet smakelijk,2.0,0.0,['noodles'],['noodles'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,26.0,3
+372,Eet smakelijk??????,3: Eet smakelijk,,1.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,23.0,3
+376,Ik eet friet,3: Eet smakelijk,4.0,0.0,"['friet', 'eet']","['eet', 'friet']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+377,Wat eet jij,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+378,Morgen eet ik een heele pizza,3: Eet smakelijk,3.0,0.0,"['pizza', 'eet']","['morg', 'eet', 'hel', 'pizza']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+379,Margen eet ik pizza,3: Eet smakelijk,3.0,0.0,"['pizza', 'eet']","['marg', 'eet', 'pizza']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+387,Ik eet pizza salami,3: Eet smakelijk,4.0,0.0,"['salami', 'pizza', 'eet']","['eet', 'pizza', 'salami']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+400,Ik eet ook bami melvin,3: Eet smakelijk,,2.0,['eet'],"['eet', 'bami', 'melvin']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+402,Ik eet macaroni??,3: Eet smakelijk,2.0,0.0,"['macaroni', 'eet']","['eet', 'macaroni']",0.0,9.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+407,Ontbijten bedoelde ik ,3: Eet smakelijk,,0.0,['ontbijt'],"['ontbijt', 'bedoeld']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,12.0,3
+411,Ben ik een vogel of fruit,3: Eet smakelijk,2.0,0.0,['fruit'],"['vogel', 'fruit']",2.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0,3
+421,In je koelkast,3: Eet smakelijk,,0.0,['koelkast'],['koelkast'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+425,Ik ga nu poffertjes eten ik heb voer nodig haha,3: Eet smakelijk,4.0,0.0,"['poffertjes', 'eten', 'voer']","['ga', 'poffertjes', 'eten', 'voer', 'nodig', 'haha']",0.0,11.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,3.0,0.25,0.0,0.0,1.0,0.0,0.0,15.0,3
+446,Dit eet ik nu,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+474,Ik eet een appel??,3: Eet smakelijk,2.0,0.0,"['appel', 'eet']","['eet', 'appel']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+475,Ik eet dit,3: Eet smakelijk,,1.0,['eet'],['eet'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+482,Pizza nu????,3: Eet smakelijk,3.0,0.0,['pizza'],['pizza'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+487,Eet smakelijk allemaal,3: Eet smakelijk,,1.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'allemal']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+500,Hoi ik ben een appel ssn het eten haha,3: Eet smakelijk,2.0,0.0,"['appel', 'eten']","['hoi', 'appel', 'ssn', 'eten', 'haha']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+507,Ik eet nu een loempia,3: Eet smakelijk,,1.0,['eet'],"['eet', 'loempia']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+511,Eet smakelijk jelle,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'jell']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+512,Thx voor dat Jelle eet smakkelijk zij,3: Eet smakelijk,,1.0,['eet'],"['thx', 'jell', 'eet', 'smakkelijk']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+515,Ok eet smakelijk broer,3: Eet smakelijk,,1.0,"['smakelijk', 'eet']","['ok', 'eet', 'smakelijk', 'broer']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+521,Nom #nom eten,3: Eet smakelijk,,0.0,['eten'],"['nom', 'nom', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+524,Er is geen pinda,3: Eet smakelijk,4.0,0.0,['pinda'],['pinda'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+525,Sushi meenemen,3: Eet smakelijk,2.0,0.0,['sushi'],"['sushi', 'meenem']",0.0,12.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+527,Friet en jik,3: Eet smakelijk,4.0,0.0,['friet'],"['friet', 'jik']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,26.0,3
+529,Jij eet te veep,3: Eet smakelijk,,0.0,['eet'],"['jij', 'eet', 'vep']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+530,Smakelijk eten,3: Eet smakelijk,,1.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,24.0,3
+532,Smakelijk voor de kinderen die naar huis gaan,3: Eet smakelijk,,0.0,['smakelijk'],"['smakelijk', 'kinder', 'huis', 'gan']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.025000000000000022,0.0,0.0,1.0,0.0,0.0,24.0,3
+535,Yo ik ben aan het eten,3: Eet smakelijk,,1.0,['eten'],"['yo', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+536,Waneer civan te veel eet,3: Eet smakelijk,,0.0,['eet'],"['waner', 'civan', 'eet']",1.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0,3
+542,Ik eet nu pizza,3: Eet smakelijk,3.0,2.0,"['pizza', 'eet']","['eet', 'pizza']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+543,Nee is van fruit,3: Eet smakelijk,2.0,0.0,['fruit'],"['nee', 'fruit']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+551,Smakelijk allemaal,3: Eet smakelijk,,3.0,['smakelijk'],"['smakelijk', 'allemal']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+560,Nu Moet ik eten lekkere pizza heerlijk,3: Eet smakelijk,3.0,0.0,"['pizza', 'eten']","['eten', 'lekker', 'pizza', 'heerlijk']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,24.0,3
+561,Eet smaklijl,3: Eet smakelijk,,0.0,['eet'],"['eet', 'smaklijl']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+563,Hahaha pinda kaas,3: Eet smakelijk,4.0,0.0,"['pinda', 'kas']","['hahaha', 'pinda', 'kas']",0.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+565,Hoi en eet smaklijk,3: Eet smakelijk,,0.0,['eet'],"['hoi', 'eet', 'smaklijk']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+567,O ik moet eten ik kom straks ok,3: Eet smakelijk,,0.0,['eten'],"['eten', 'kom', 'strak', 'ok']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+592,Ik ben er ik straks pizza eten maar dat wil ik noetaar het moet.??,3: Eet smakelijk,3.0,0.0,"['pizza', 'eten']","['strak', 'pizza', 'eten', 'noetar']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+599,Ik eet nu,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+608,Smakkelijk eten,3: Eet smakelijk,,0.0,['eten'],"['smakkelijk', 'eten']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0,3
+611,Jij ook smakelijk??,3: Eet smakelijk,,0.0,['smakelijk'],"['jij', 'smakelijk']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,15.0,3
+614,pinda kaas,3: Eet smakelijk,4.0,2.0,"['pinda', 'kas']","['pinda', 'kas']",0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,28.0,3
+617,Ik eet panekoek,3: Eet smakelijk,,1.0,['eet'],"['eet', 'panekoek']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+620,Oke smakelijk eten,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['oke', 'smakelijk', 'eten']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+623,Ik eet altijd om 5 uur behalve in de weekend dan is het verschilend,3: Eet smakelijk,,1.0,['eet'],"['eet', 'uur', 'behalv', 'weekend', 'verschil']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+625,Ik eet pannenkoek,3: Eet smakelijk,2.0,1.0,"['pannenkoek', 'eet']","['eet', 'pannenkoek']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+636,Smakkelijk eten nick,3: Eet smakelijk,,0.0,['eten'],"['smakkelijk', 'eten', 'nick']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+640,Hoi smakkelijk eten,3: Eet smakelijk,,1.0,['eten'],"['hoi', 'smakkelijk', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+644,eet smakelijk,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,9.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,18.0,3
+650,Smakelijk iris,3: Eet smakelijk,,1.0,['smakelijk'],"['smakelijk', 'iris']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,14.0,3
+652,Smakelijk jayce,3: Eet smakelijk,,0.0,['smakelijk'],"['smakelijk', 'jayc']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,14.0,3
+654,Eet smakleijk,3: Eet smakelijk,,0.0,['eet'],"['eet', 'smakleijk']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+655,Ik eet wafel met chocopasta,3: Eet smakelijk,4.0,0.0,"['wafel', 'chocopasta', 'eet']","['eet', 'wafel', 'chocopasta']",0.0,10.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+656,Akos Ik eet wafels met chocopasta,3: Eet smakelijk,4.0,0.0,"['wafel', 'chocopasta', 'eet']","['akos', 'eet', 'wafel', 'chocopasta']",0.0,10.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+657,Super lijk wafels,3: Eet smakelijk,3.0,0.0,['wafel'],"['super', 'lijk', 'wafel']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9,0.0,0.0,1.0,0.0,0.0,21.0,3
+658,Rachid ik eet wafel,3: Eet smakelijk,3.0,0.0,"['wafel', 'eet']","['rachid', 'eet', 'wafel']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+659,Eet smakelijk nick,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'nick']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,21.0,3
+672,Smakelijk eten allemaal,3: Eet smakelijk,,5.0,"['eten', 'smakelijk']","['smakelijk', 'eten', 'allemal']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+678,Ik kom net van de maccie,3: Eet smakelijk,,1.0,['maccie'],"['kom', 'net', 'maccie']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,1.0,0.0,1.0,0.0,0.0,16.0,3
+687,Fout het is op het ijs,3: Eet smakelijk,4.0,1.0,['ijs'],"['fout', 'ijs']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.5,0.0,0.0,1.0,0.0,0.0,0.0,3
+724,Ben je nog bij het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],['ijs'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,13.0,3
+732,He jos wil je dadelijk mee gaan ijstrappen en op het ijs lopen ???????????????????????,3: Eet smakelijk,4.0,0.0,['ijs'],"['he', 'jos', 'dadelijk', 'mee', 'gan', 'ijstrapp', 'ijs', 'lop']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+734,Wat betekent maccie,3: Eet smakelijk,,0.0,['maccie'],"['betekent', 'maccie']",0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,15.0,3
+740,Wij zijn bij het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],"['wij', 'ijs']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+741,Ik ga eeten. Hambuger,3: Eet smakelijk,,0.0,['eet'],"['ga', 'eet', 'hambuger']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,3
+746,Tostie eeten,3: Eet smakelijk,,0.0,['eet'],"['tostie', 'eet']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,3
+754,Ben je aan het ontbijten?,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+758,Ioha moet eten,3: Eet smakelijk,,0.0,['eten'],"['ioha', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+759,Ik eet thuis naar ilja eet pennen dat is een soort spageti,3: Eet smakelijk,,0.0,"['eet', 'eet']","['eet', 'thuis', 'ilja', 'eet', 'penn', 'soort', 'spageti']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,15.0,3
+760,Dit eet ik,3: Eet smakelijk,,0.0,['eet'],['eet'],2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,3
+761,Grapje ik ben alergies voir appel,3: Eet smakelijk,2.0,0.0,['appel'],"['grapj', 'alergies', 'voir', 'appel']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+774,Daalik ik moet eerst eeten,3: Eet smakelijk,,0.0,['eet'],"['daalik', 'eerst', 'eet']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+775,Ik eet rut,3: Eet smakelijk,,0.0,['eet'],"['eet', 'rut']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,19.0,3
+781,Eet ik jou,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jou']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+801,Lekker even een stevig ontbijt,3: Eet smakelijk,,4.0,['ontbijt'],"['lekker', 'even', 'stevig', 'ontbijt']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.43333333333333335,0.0,0.0,0.0,0.0,1.0,15.0,3
+811,Eventjes lekker smikkelen,3: Eet smakelijk,,0.0,['smikkel'],"['eventjes', 'lekker', 'smikkel']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+812,Ik eet dadelijk pannenkoeken,3: Eet smakelijk,2.0,0.0,"['pannenkoek', 'eet']","['eet', 'dadelijk', 'pannenkoek']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+813,Wij gaan lekker smikkelen,3: Eet smakelijk,,0.0,['smikkel'],"['wij', 'gan', 'lekker', 'smikkel']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,17.0,3
+819,Wie komt er naar het ijs bij het veldje,3: Eet smakelijk,4.0,0.0,['ijs'],"['komt', 'ijs', 'veldj']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+820,Wie komt er naar het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],"['komt', 'ijs']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+821,Komjij naar het ijs toe,3: Eet smakelijk,4.0,0.0,['ijs'],"['komjij', 'ijs', 'toe']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+822,Wie komt er naar het ijs toe,3: Eet smakelijk,4.0,0.0,['ijs'],"['komt', 'ijs', 'toe']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+823,Kom ja naar het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],"['kom', 'ijs']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+824,Nick kom jij naar het ijs bij het veldje,3: Eet smakelijk,4.0,0.0,['ijs'],"['nick', 'kom', 'jij', 'ijs', 'veldj']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+830,Even lekker smikkelen,3: Eet smakelijk,,0.0,['smikkel'],"['even', 'lekker', 'smikkel']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+838,Nog aan het ontbijten,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+844,Deze ook op het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],['ijs'],1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,3
+849,En ik eet dadelijk pizza,3: Eet smakelijk,3.0,1.0,"['pizza', 'eet']","['eet', 'dadelijk', 'pizza']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+852,Ik ben aan het ontbijten,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+861,Die ga ik nu op eten nom nom mom lekker smikkelen ?,3: Eet smakelijk,,0.0,"['eten', 'smikkel']","['ga', 'eten', 'nom', 'nom', 'mom', 'lekker', 'smikkel']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,3
+888,Ik eet vanavond ,3: Eet smakelijk,,1.0,['eet'],"['eet', 'vanavond']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,3
+893,Mjam mjam,3: Eet smakelijk,,0.0,"['mjam,', 'mjam', 'mjam']","['mjam', 'mjam']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+894,Mjam mjam lekker!!!!,3: Eet smakelijk,,0.0,"['mjam,', 'mjam,', 'mjam', 'mjam']","['mjam', 'mjam', 'lekker']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,19.0,3
+900,Lekker ontbijt,3: Eet smakelijk,,1.0,['ontbijt'],"['lekker', 'ontbijt']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,19.0,3
+903,Wat een mooie banaan,3: Eet smakelijk,2.0,0.0,['banan'],"['mooi', 'banan']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,18.0,3
+906,Je kan op het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],['ijs'],0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+916,Hij is ook op het ijs,3: Eet smakelijk,4.0,0.0,['ijs'],['ijs'],1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0,3
+917,Werd vergiftigt door een appel,3: Eet smakelijk,2.0,0.0,['appel'],"['vergiftigt', 'appel']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+938,Riva zijn de poffertjes lekker en gelukt,3: Eet smakelijk,4.0,0.0,['poffertjes'],"['riva', 'poffertjes', 'lekker', 'gelukt']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,18.0,3
+940,Eet smakelijk????????????????????????????????????,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+941,Wie gaat er zometeen ook ontbijten??,3: Eet smakelijk,,1.0,['ontbijt'],"['gat', 'zometen', 'ontbijt']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+943,Aardbei,3: Eet smakelijk,1.0,0.0,['aardbei'],['aardbei'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+948,Gelukkig en fruit,3: Eet smakelijk,2.0,0.0,['fruit'],"['gelukk', 'fruit']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.75,0.0,0.0,1.0,0.0,0.0,17.0,3
+949,"Ik wil dit als ontbijt, wie nog meer??",3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,3
+956,Mijn ontbijt zijn worstebroodjes ,3: Eet smakelijk,,0.0,['ontbijt'],"['ontbijt', 'worstebroodjes']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+959,En smakelijk,3: Eet smakelijk,,0.0,['smakelijk'],['smakelijk'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,18.0,3
+965,Veel plezier nog en eet smakelijk,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['plezier', 'eet', 'smakelijk']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,15.0,3
+966,En welterusten slaap lekker en eet smakelijk Tot morgen Doei,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['welterust', 'slap', 'lekker', 'eet', 'smakelijk', 'morg', 'doei']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.6499999999999999,0.0,0.0,1.0,0.0,0.0,15.0,3
+971,Jij ook eet smakelijk Misschien kan ik morgen nog app appen maar ik moet nu eten en nog een fijn weekend dus eet smakelijk fijn weekend doei,3: Eet smakelijk,,0.0,"['eten', 'smakelijk', 'smakelijk', 'eet', 'eet']","['jij', 'eet', 'smakelijk', 'misschien', 'morg', 'app', 'app', 'eten', 'fijn', 'weekend', 'eet', 'smakelijk', 'fijn', 'weekend', 'doei']",0.0,10.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,0.5,0.0,0.0,1.0,0.0,0.0,15.0,3
+975,Nu eten doei fruit,3: Eet smakelijk,2.0,0.0,"['fruit', 'eten']","['eten', 'doei', 'fruit']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+992,Oh eet smakelijk,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['oh', 'eet', 'smakelijk']",2.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,15.0,3
+993,Smakelijk eten smakelijk eten hap hap hap hap hap hap Dat zal lekker smaken Dat zal lekker smaken eet maar op op,3: Eet smakelijk,,0.0,"['eten', 'eten', 'smakelijk', 'smakelijk', 'eet']","['smakelijk', 'eten', 'smakelijk', 'eten', 'hap', 'hap', 'hap', 'hap', 'hap', 'hap', 'lekker', 'smak', 'lekker', 'smak', 'eet']",0.0,10.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,0.65,0.0,0.0,1.0,0.0,0.0,15.0,3
+997,Wat fruit,3: Eet smakelijk,2.0,0.0,['fruit'],['fruit'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1000,Mmmmmmmm zo lekker ik eet dadelijk over 18 min lagane,3: Eet smakelijk,,0.0,['eet'],"['mmm', 'lekker', 'eet', 'dadelijk', '18', 'min', 'lagan']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.04999999999999999,0.0,0.0,1.0,0.0,0.0,16.0,3
+1002,Veel eet plezier??????,3: Eet smakelijk,,0.0,['eet'],"['eet', 'plezier']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1012,Jij bent een hamburger,3: Eet smakelijk,4.0,0.0,['hamburger'],"['jij', 'bent', 'hamburger']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1015,met een heerlijk ontbijt,3: Eet smakelijk,,0.0,['ontbijt'],"['heerlijk', 'ontbijt']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,19.0,3
+1016,Een ontbijt wat we nooit eten,3: Eet smakelijk,,0.0,"['ontbijt', 'eten']","['ontbijt', 'we', 'nooit', 'eten']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1020,Smakelijk eten iedereen,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['smakelijk', 'eten', 'iederen']",2.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,15.0,3
+1032,Ok ik ga macaroni,3: Eet smakelijk,2.0,0.0,['macaroni'],"['ok', 'ga', 'macaroni']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,3
+1034,Mmmmm lekker macaroni,3: Eet smakelijk,2.0,0.0,['macaroni'],"['mmm', 'lekker', 'macaroni']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,22.0,3
+1035,Ik eet,3: Eet smakelijk,,1.0,['eet'],['eet'],0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1041,Ik ook lekker smulen ik eet al de cupcakes op,3: Eet smakelijk,,0.0,['eet'],"['lekker', 'smul', 'eet', 'cupcakes']",2.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,17.0,3
+1043,Ja tot morgen en nog een keer smakelijk,3: Eet smakelijk,,0.0,['smakelijk'],"['morg', 'ker', 'smakelijk']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+1044,Smakelijk alvast voor heel groep 8,3: Eet smakelijk,,0.0,['smakelijk'],"['smakelijk', 'alvast', 'hel', 'groep']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.41666666666666663,0.0,0.0,1.0,0.0,0.0,17.0,3
+1045,Ik heb pizza van rozario die komt er aan,3: Eet smakelijk,3.0,0.0,['pizza'],"['pizza', 'rozario', 'komt']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1052,Appel met friet en appel met hamburger mc donalds,3: Eet smakelijk,3.0,0.0,"['appel', 'appel', 'hamburger', 'friet']","['appel', 'friet', 'appel', 'hamburger', 'mc', 'donald']",2.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,20.0,3
+1059,Ook morgen bij het ontbijten oke????????????,3: Eet smakelijk,,0.0,['ontbijt'],"['morg', 'ontbijt', 'oke']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1063,Ik eet ook ,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1064,Ik eet lekker kaugom,3: Eet smakelijk,,0.0,['eet'],"['eet', 'lekker', 'kaugom']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,3
+1072,Ik eet nu het is half6,3: Eet smakelijk,,0.0,['eet'],"['eet', 'half6']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1079,Naar ijs,3: Eet smakelijk,4.0,0.0,['ijs'],['ijs'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,17.0,3
+1083,Mmmm milkshake,3: Eet smakelijk,3.0,0.0,['milkshak'],"['mmm', 'milkshak']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1090,Ik als ik teveel eet??????????????,3: Eet smakelijk,,1.0,['eet'],"['tevel', 'eet']",1.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,3
+1111,Eet dan kaas,3: Eet smakelijk,4.0,0.0,"['kas', 'eet']","['eet', 'kas']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1113,Welke taart??,3: Eet smakelijk,4.0,0.0,['taart'],"['welk', 'taart']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1114,Dan eet je kaas,3: Eet smakelijk,4.0,0.0,"['kas', 'eet']","['eet', 'kas']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1119,Rennen voir de eten,3: Eet smakelijk,,0.0,['eten'],"['renn', 'voir', 'eten']",1.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,24.0,3
+1121,Stel de vraag is dus wat eet je nu,3: Eet smakelijk,,0.0,['eet'],"['stel', 'vrag', 'eet']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,3
+1128,Jijj als je eet,3: Eet smakelijk,,0.0,['eet'],"['jijj', 'eet']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1145,Yummy,3: Eet smakelijk,,0.0,['yummy'],['yummy'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1150,Ik eet en wat doe jij,3: Eet smakelijk,,0.0,['eet'],"['eet', 'doe', 'jij']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,3
+1151,Mmmmm pizza,3: Eet smakelijk,3.0,0.0,['pizza'],"['mmm', 'pizza']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1153,Ik ben lekker eten macoroni,3: Eet smakelijk,,0.0,['eten'],"['lekker', 'eten', 'macoroni']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,0.0,3
+1157,Ik eet tomaaten,3: Eet smakelijk,2.0,0.0,"['tomat', 'eet']","['eet', 'tomat']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+1162,Dit wil jij eeten max ,3: Eet smakelijk,,0.0,['eet'],"['jij', 'eet', 'max']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+1173,Ik eet tortellini,3: Eet smakelijk,,0.0,['eet'],"['eet', 'tortellini']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1181,Smikkel tijd,3: Eet smakelijk,,0.0,['smikkel'],"['smikkel', 'tijd']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,3
+1182,Smikkel,3: Eet smakelijk,,0.0,['smikkel'],['smikkel'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1184,Ik eet even mijn ships op,3: Eet smakelijk,,0.0,['eet'],"['eet', 'even', 'ship']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1187,Kom op de pizza place,3: Eet smakelijk,3.0,0.0,['pizza'],"['kom', 'pizza', 'plac']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+1194,Wie eet dat,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+1197,Dan eet jij dit,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,3
+1206,Ja ik eet dat als ontbijt,3: Eet smakelijk,,0.0,"['ontbijt', 'eet']","['eet', 'ontbijt']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,3
+1215,Wat eet je.,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1216,En ik eet eensanwits,3: Eet smakelijk,,0.0,['eet'],"['eet', 'eensanwit']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1223,En Wat eet jij,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1229,LEKKEEEERRR BIC MACCIE ????????????????????????????????????????????????????????????????????O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) :-\ O:-) O:-) O:-) O:-) O:-) O:-) :-\ O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) O:-) :-\ O:-) O:-) O:-) ,3: Eet smakelijk,,0.0,['maccie'],"['lekkeerr', 'bic', 'maccie']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,1.0,0.0,0.0,0.0,1.0,16.0,3
+1241,Wat zijn jullie aan het smikkelen? ??,3: Eet smakelijk,,0.0,['smikkel'],"['jullie', 'smikkel']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1248,Ii eet pizza,3: Eet smakelijk,3.0,0.0,"['pizza', 'eet']","['ii', 'eet', 'pizza']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1249,Ik heb wafel,3: Eet smakelijk,3.0,0.0,['wafel'],['wafel'],0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1252,Hoi  elise wat eet jij?,3: Eet smakelijk,,0.0,['eet'],"['hoi', 'elis', 'eet', 'jij']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1255,Eet smakelijk allemaal en vergeet morgen je telephoon niet??????????????????????????????????????????????????????????????????????????????,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'allemal', 'verget', 'morg', 'telephon']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+1261,Oreo's mjam mjam mjam,3: Eet smakelijk,5.0,0.0,"['mjam,', 'mjam,', 'mjam', 'mjam', 'mjam', 'oreo']","['oreo', 'mjam', 'mjam', 'mjam']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,6.0,0.0,0.0,1.0,1.0,0.0,0.0,17.0,3
+1271,Bert banaan,3: Eet smakelijk,2.0,0.0,['banan'],"['bert', 'banan']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1278,Ik eet een broodje kaas,3: Eet smakelijk,3.0,1.0,"['kas', 'broodj', 'eet']","['eet', 'broodj', 'kas']",0.0,11.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,3
+1283,Eet nu dan,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,3
+1288,Ik eet soucijzenbroodjes,3: Eet smakelijk,,0.0,['eet'],"['eet', 'soucijzenbroodjes']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1310,Annie aardbei en banaan nog wat,3: Eet smakelijk,2.0,0.0,"['aardbei', 'banan']","['annie', 'aardbei', 'banan']",0.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1313,Dankje wat stuur ik allemaal en ik eet niks,3: Eet smakelijk,,0.0,['eet'],"['dankj', 'stur', 'allemal', 'eet', 'nik']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1318,Oke ik heb pizza gegeten,3: Eet smakelijk,3.0,0.0,['pizza'],"['oke', 'pizza', 'geget']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1320,Moet nog ontbijten,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1325,Ik eet mijn yoghurt met aardbei,3: Eet smakelijk,2.0,0.0,"['aardbei', 'yoghurt', 'eet']","['eet', 'yoghurt', 'aardbei']",0.0,11.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,3
+1326,KAAAS  PIZZA ??,3: Eet smakelijk,4.0,0.0,"['pizza', 'kas']","['kas', 'pizza']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,3
+1327,Sushi ??,3: Eet smakelijk,2.0,0.0,['sushi'],['sushi'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,3
+1330,Echt niet Ik heb wel eens  sushi op maar geen kaas pizza,3: Eet smakelijk,3.0,0.0,"['sushi', 'pizza', 'kas']","['echt', 'wel', 'sushi', 'kas', 'pizza']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,0.15000000000000002,0.0,0.0,1.0,0.0,0.0,20.0,3
+1336,"Ok?, alsnog eet smakelijk!",3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['ok', 'alsnog', 'eet', 'smakelijk']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.875,0.0,0.0,1.0,0.0,0.0,16.0,3
+1362,Smikkelen,3: Eet smakelijk,,0.0,['smikkel'],['smikkel'],0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1377,Fruit,3: Eet smakelijk,2.0,0.0,['fruit'],['fruit'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,3
+1386,Fruit-tella zoo mania,3: Eet smakelijk,2.0,0.0,['fruit'],"['fruit', 'tella', 'zoo', 'mania']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+1387,Wijn,3: Eet smakelijk,,0.0,['wijn'],['wijn'],0.0,11.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1392,Wat eet jij/heb jij gegeten?,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij', 'jij', 'geget']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1409,Eet smakkenlijk!,3: Eet smakelijk,,0.0,['eet'],"['eet', 'smakken']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1439,Munt?,3: Eet smakelijk,4.0,0.0,['munt'],['munt'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1446,Eet smakelijk ,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,18.0,3
+1447,Niet weg gaan bij munt ok,3: Eet smakelijk,4.0,0.0,['munt'],"['weg', 'gan', 'munt', 'ok']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,3
+1451,Eet samekkelijk,3: Eet smakelijk,,0.0,['eet'],"['eet', 'samek']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1457,Hoi eet smakelijk,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['hoi', 'eet', 'smakelijk']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+1458,Ik ben bijde munt,3: Eet smakelijk,4.0,0.0,['munt'],"['bijd', 'munt']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1460,De munt,3: Eet smakelijk,4.0,0.0,['munt'],['munt'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1462,Eet smakkelijk,3: Eet smakelijk,,0.0,['eet'],"['eet', 'smakkelijk']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+1468,Pizza is lekker,3: Eet smakelijk,3.0,0.0,['pizza'],"['pizza', 'lekker']",0.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,19.0,3
+1471,Yoo yoghurt,3: Eet smakelijk,2.0,0.0,['yoghurt'],"['yoo', 'yoghurt']",0.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1476,Hallo bailey,3: Eet smakelijk,,0.0,['bailey'],"['hallo', 'bailey']",0.0,13.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,16.0,3
+1477,Hoi ik ben Bailey,3: Eet smakelijk,,0.0,['bailey'],"['hoi', 'bailey']",0.0,12.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,17.0,3
+1484,Het is.   Muffins gekkie,3: Eet smakelijk,4.0,0.0,['muffin'],"['muffin', 'gekkie']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1487,OWNEE MIJN APPELS??????,3: Eet smakelijk,2.0,0.0,['appel'],"['ownee', 'appel']",0.0,15.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+1497,Ik fhhdhfhddufi Ik eet een lolly ik eten lolly Ik eet een lolly Ik eet een lolly Ik eet en ik eet een lolly lolly ik eten English Hello I'm Jayden,3: Eet smakelijk,4.0,0.0,"['lolly', 'lolly', 'lolly', 'lolly', 'lolly', 'lolly', 'eten', 'eten', 'eet', 'eet', 'eet', 'eet', 'eet']","['fhhdhfhddufi', 'eet', 'lolly', 'eten', 'lolly', 'eet', 'lolly', 'eet', 'lolly', 'eet', 'eet', 'lolly', 'lolly', 'eten', 'english', 'hello', 'jayd']",0.0,10.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1519,Je bent net zo mooi als deze taart en lekker,3: Eet smakelijk,4.0,0.0,['taart'],"['bent', 'net', 'mooi', 'taart', 'lekker']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6499999999999999,0.0,0.0,0.0,0.0,1.0,16.0,3
+1529,Maar het is een lekkere dorstlesser,3: Eet smakelijk,,1.0,['dorstlesser'],"['lekker', 'dorstlesser']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+1533,Ok eetsmakkelijk,3: Eet smakelijk,,0.0,['eetsmak'],"['ok', 'eetsmak']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1560,Taart voor fenna zaterdag,3: Eet smakelijk,4.0,0.0,['taart'],"['taart', 'fenna', 'zaterdag']",2.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,3
+1562,Smakelijk eten??,3: Eet smakelijk,,4.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1563,Mmm... Lekker fruit donuts??,3: Eet smakelijk,3.0,1.0,"['donut', 'fruit']","['mmm', 'lekker', 'fruit', 'donut']",0.0,11.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,18.0,3
+1564,Smakelijk allemaal! ??????????,3: Eet smakelijk,,3.0,['smakelijk'],"['smakelijk', 'allemal']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.875,0.0,0.0,0.0,0.0,1.0,18.0,3
+1565,Smakelijk eten Aafke,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['smakelijk', 'eten', 'aafk']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1566,Eet smakelijk Marit??,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'marit']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1567,Eet smakelijk Iris????,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'iris']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1568,Eet smakelijk Sofie??????,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'sofie']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1571,Wat eet jij?? Wij pantanties????,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij', 'wij', 'pantanties']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1575,Smakelijk allemaal????,3: Eet smakelijk,,3.0,['smakelijk'],"['smakelijk', 'allemal']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1576,Wij Sushi???? en Noedels??,3: Eet smakelijk,2.0,0.0,"['sushi', 'noedel']","['wij', 'sushi', 'noedel']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1579,Smakkelijk eten.????,3: Eet smakelijk,,0.0,['eten'],"['smakkelijk', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1581,Smakelijk! ,3: Eet smakelijk,,0.0,['smakelijk'],['smakelijk'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.875,0.0,0.0,1.0,0.0,0.0,18.0,3
+1584,Zegt de gene die niet eet,3: Eet smakelijk,,0.0,['eet'],"['zegt', 'gen', 'eet']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1586,Mmmmmmm nu heb ik honger,3: Eet smakelijk,,2.0,['honger'],"['mmm', 'honger']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+1589,o echt fruit man,3: Eet smakelijk,2.0,1.0,['fruit'],"['echt', 'fruit', 'man']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0.0,0.0,1.0,0.0,0.0,17.0,3
+1591,Ik eet wel,3: Eet smakelijk,,0.0,['eet'],"['eet', 'wel']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1594,Het is pizza tijd,3: Eet smakelijk,3.0,0.0,['pizza'],"['pizza', 'tijd']",2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,3
+1599,Ik eet nu met lucas en sem,3: Eet smakelijk,,1.0,['eet'],"['eet', 'lucas', 'sem']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1601,Ik eet nu een twix wit,3: Eet smakelijk,5.0,1.0,"['twix', 'eet']","['eet', 'twix', 'wit']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-0.09999999999999999,0.0,1.0,1.0,0.0,0.0,17.0,3
+1607,Hoezo eet jij niet,3: Eet smakelijk,,0.0,['eet'],"['hoezo', 'eet', 'jij']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1608,Nee ik eet niet ,3: Eet smakelijk,,0.0,['eet'],"['nee', 'eet']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1616,Eet jij,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1627,Eet jij thuis,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij', 'thuis']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1628,O dus je eet niet,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1632,Ik eet pizza,3: Eet smakelijk,3.0,0.0,"['pizza', 'eet']","['eet', 'pizza']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1633,Mini pizza,3: Eet smakelijk,3.0,0.0,['pizza'],"['mini', 'pizza']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1640,Dit heb ik als ontbijt,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,3
+1658,Ik Ben op het pat nu,3: Eet smakelijk,2.0,0.0,['pat'],['pat'],0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1659,Nee ik moet eeten,3: Eet smakelijk,,0.0,['eet'],"['nee', 'eet']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1660,Ik ga bij rutje eeten,3: Eet smakelijk,,1.0,['eet'],"['ga', 'rutj', 'eet']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,3
+1661,Ik ook ik ga lazanja eeten,3: Eet smakelijk,,0.0,['eet'],"['ga', 'lazanja', 'eet']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1662,Marieke kun jij na het eeten?????????????????????????????,3: Eet smakelijk,,0.0,['eet'],"['mariek', 'kun', 'jij', 'eet']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1663,Nee ik ga om 18:30 eeten,3: Eet smakelijk,,0.0,['eet'],"['nee', 'ga', '18', '30', 'eet']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1664,Ik moet eeten doei,3: Eet smakelijk,,0.0,['eet'],"['eet', 'doei']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1676,Lekler ijsje eten,3: Eet smakelijk,,0.0,['eten'],"['lekler', 'ijsj', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1679,O oke eet smakelijk,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['oke', 'eet', 'smakelijk']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,19.0,3
+1689,EEt smakelijk,3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,9.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,15.0,3
+1691,EET OP!!!!!!!,3: Eet smakelijk,,0.0,['eet'],['eet'],2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+1711,Ik neem mijn geluks munt mee,3: Eet smakelijk,4.0,0.0,['munt'],"['nem', 'geluk', 'munt', 'mee']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1713,BBQ met de geldwolfjes,3: Eet smakelijk,3.0,0.0,['bbq'],"['bbq', 'geldwolfjes']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+1717,Was de vis lekker ilja,3: Eet smakelijk,1.0,0.0,['vis'],"['vis', 'lekker', 'ilja']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,13.0,3
+1721,Hoi smakelijk eten,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['hoi', 'smakelijk', 'eten']",0.0,11.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,18.0,3
+1725,Ok heb net gegeten mjam mjamie,3: Eet smakelijk,,0.0,"['mjam,', 'mjam']","['ok', 'net', 'geget', 'mjam', 'mjamie']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.55,0.0,0.0,0.0,0.0,1.0,16.0,3
+1726,Eet smakelijk alvast,3: Eet smakelijk,,1.0,"['smakelijk', 'eet']","['eet', 'smakelijk', 'alvast']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,0.0,0.0,1.0,17.0,3
+1730,Smakelijk eten!????????,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.875,0.0,0.0,1.0,0.0,0.0,17.0,3
+1746,Kaas kabouet menne,3: Eet smakelijk,4.0,0.0,['kas'],"['kas', 'kabouet', 'menn']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+1752,Bloemen naar huis en ik wil daar een tosti eten,3: Eet smakelijk,4.0,0.0,"['tosti', 'eten']","['bloem', 'huis', 'tosti', 'eten']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,16.0,3
+1753,??ik ben een kind van de hamburger??,3: Eet smakelijk,4.0,0.0,['hamburger'],"['kind', 'hamburger']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1758,Lekker ijs heb ik,3: Eet smakelijk,4.0,0.0,['ijs'],"['lekker', 'ijs']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+1761,Wat eet je dan ,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,27.0,3
+1766,Ijs kom naar hier,3: Eet smakelijk,4.0,0.0,['ijs'],"['ijs', 'kom']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,27.0,3
+1770,Ja en jij andijvie toch,3: Eet smakelijk,1.0,0.0,['andijvie'],"['jij', 'andijvie']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+1771,Hahahaha ik eet ook heel vaak mijn eten niet op,3: Eet smakelijk,,0.0,"['eten', 'eet']","['hahahaha', 'eet', 'hel', 'vak', 'eten']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.13333333333333333,0.0,0.0,1.0,0.0,0.0,20.0,3
+1789,Ik eet nu ook een aarbei ijsje lekker,3: Eet smakelijk,,0.0,['eet'],"['eet', 'aarbei', 'ijsj', 'lekker']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,3
+1790,Mijn ijsje heet fruit dream hahaha,3: Eet smakelijk,2.0,0.0,['fruit'],"['ijsj', 'het', 'fruit', 'dream', 'hahaha']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.03333333333333333,0.0,0.0,1.0,0.0,0.0,20.0,3
+1795,Banaanen zijn lekker he kan  toch,3: Eet smakelijk,2.0,0.0,['banan'],"['banan', 'lekker', 'he']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,3
+1803,Ik eet nu macaronie,3: Eet smakelijk,,0.0,['eet'],"['eet', 'macaronie']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1806,Ik eet ijs,3: Eet smakelijk,4.0,0.0,"['ijs', 'eet']","['eet', 'ijs']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1809,Ik eet noodle,3: Eet smakelijk,,0.0,['eet'],"['eet', 'noodl']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1813,Ik kom welk ijs als je liegt he,3: Eet smakelijk,4.0,0.0,['ijs'],"['kom', 'welk', 'ijs', 'liegt', 'he']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1817,?? ik mis je (pizza) ,3: Eet smakelijk,3.0,0.0,['pizza'],"['mis', 'pizza']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.5,0.0,0.0,1.0,0.0,0.0,0.0,3
+1820,Om 21:30 ga ik zoooo lekker eten yammieeeee kan niet wachten  ik ga morgen weer meedoen wie ook?,3: Eet smakelijk,,0.0,['eten'],"['21', '30', 'ga', 'zoo', 'lekker', 'eten', 'yammiee', 'wacht', 'ga', 'morg', 'wer', 'meedoen']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,0.0,3
+1822,Ik eet niet om 03:30 ofzo iets rond die tijd ik eet alleen maar om 21:24 uur wie ook,3: Eet smakelijk,,0.0,"['eet', 'eet']","['eet', '03', '30', 'ofzo', 'rond', 'tijd', 'eet', 'allen', '21', '24', 'uur']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+1824,Wie eet nu,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+1833,Het leven is saai zonder eten,3: Eet smakelijk,,0.0,['eten'],"['lev', 'saai', 'eten']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+1859,Weet ik moet nog ontbijten dus ik ga het vragen als die thuis komt want hij is ontbijt halen,3: Eet smakelijk,,0.0,"['ontbijt', 'ontbijt']","['wet', 'ontbijt', 'ga', 'vrag', 'thuis', 'komt', 'ontbijt', 'hal']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+1861,2 maar dan wel aardbeien taart,3: Eet smakelijk,2.0,0.0,"['aardbei', 'taart']","['wel', 'aardbei', 'taart']",0.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+1863,Maar wat eet je dan?,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,3
+1868,Ik niet zo eeten,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3
+1872,Klaar met schooltje ze moeten eeten??,3: Eet smakelijk,,0.0,['eet'],"['klar', 'schooltj', 'moet', 'eet']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3666666666666667,0.0,0.0,1.0,0.0,0.0,18.0,3
+1880,Amira is eten,3: Eet smakelijk,,0.0,['eten'],"['amira', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1884,Mijn ontbijt,3: Eet smakelijk,,1.0,['ontbijt'],['ontbijt'],2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,3
+1885,Mooi heb je dat gebaken,3: Eet smakelijk,4.0,0.0,['gebak'],"['mooi', 'gebak']",0.0,9.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,14.0,3
+1896,Ben aan het ontbijten!!!????,3: Eet smakelijk,,0.0,['ontbijt'],['ontbijt'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+1913,Eet smaaklijk,3: Eet smakelijk,,0.0,['eet'],"['eet', 'smaaklijk']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+1926,"Hallo, eet smakelijk.",3: Eet smakelijk,,0.0,"['smakelijk', 'eet']","['hallo', 'eet', 'smakelijk']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+1927,"Mooi, wil je nu een lolly?",3: Eet smakelijk,4.0,1.0,['lolly'],"['mooi', 'lolly']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,16.0,3
+1930,"Dit ziet er echt heel lekker uit manderijn,banaan en kiwi.",3: Eet smakelijk,2.0,0.0,"['kiwi', 'banan']","['ziet', 'echt', 'hel', 'lekker', 'manderijn', 'banan', 'kiwi']",2.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.9599999999999999,0.0,0.0,0.0,0.0,1.0,19.0,3
+1939,Pizza eten,3: Eet smakelijk,3.0,0.0,"['pizza', 'eten']","['pizza', 'eten']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3
+1954,Ik ben een appel,3: Eet smakelijk,2.0,0.0,['appel'],['appel'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+1957,zo eet jij,3: Eet smakelijk,,0.0,['eet'],"['eet', 'jij']",1.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0,3
+1969,Kaas ik heel lekker,3: Eet smakelijk,4.0,1.0,['kas'],"['kas', 'hel', 'lekker']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9599999999999999,0.0,0.0,1.0,0.0,0.0,0.0,3
+1971,Is dit pizza taar?????,3: Eet smakelijk,3.0,0.0,['pizza'],"['pizza', 'tar']",2.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0,3
+1973,Ik eet dit ook,3: Eet smakelijk,,1.0,['eet'],['eet'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+1976,We hebben pizza inkantine,3: Eet smakelijk,3.0,1.0,['pizza'],"['we', 'pizza', 'inkantin']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1977,Pizza het overlekkere lekkertjr,3: Eet smakelijk,3.0,0.0,['pizza'],"['pizza', 'overlekker', 'lekkertjr']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,3
+1982,Smakelijk!??????????????,3: Eet smakelijk,,0.0,['smakelijk'],['smakelijk'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.875,0.0,0.0,0.0,0.0,1.0,18.0,3
+1983,Smakelijk eten allemaal!,3: Eet smakelijk,,2.0,"['eten', 'smakelijk']","['smakelijk', 'eten', 'allemal']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.875,0.0,0.0,0.0,0.0,1.0,18.0,3
+1984,Smakelijk???????????????????????????,3: Eet smakelijk,,2.0,['smakelijk'],['smakelijk'],2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,0.0,0.0,1.0,18.0,3
+1986,Lekkkkkkkkker gegeten??#cupcake,3: Eet smakelijk,4.0,0.0,['cupcak'],"['lekker', 'geget', 'cupcak']",2.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,3
+1987,Smakelijk eten????,3: Eet smakelijk,,1.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,14.0,3
+1989,Ik eet mijn ontbijt,3: Eet smakelijk,,0.0,"['ontbijt', 'eet']","['eet', 'ontbijt']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,3
+1999,Ik eet een wraps??,3: Eet smakelijk,,0.0,['eet'],"['eet', 'wrap']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,3
+2000,Smakelijk eten dan??,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+2002,Smakelijk levie,3: Eet smakelijk,,0.0,['smakelijk'],"['smakelijk', 'levie']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+2010,Smakelijk Evi,3: Eet smakelijk,,0.0,['smakelijk'],"['smakelijk', 'evi']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+2027,Ik eet nu een stukje taart,3: Eet smakelijk,4.0,0.0,"['taart', 'eet']","['eet', 'stukj', 'taart']",2.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,3
+2029,Oke ik ook zo ik ga kibbeling eeten ,3: Eet smakelijk,1.0,0.0,"['kibbel', 'eet']","['oke', 'ga', 'kibbel', 'eet']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+2031,Ik ben aan het eeten,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+2038,Ik eet kibbeling,3: Eet smakelijk,1.0,0.0,"['kibbel', 'eet']","['eet', 'kibbel']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+2039,Wat eet jij ik kibbeling,3: Eet smakelijk,1.0,0.0,"['kibbel', 'eet']","['eet', 'jij', 'kibbel']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,3
+2041,Hoezo eet ik nou weer veel heb jij mij zien eten dan??,3: Eet smakelijk,,0.0,"['eten', 'eet']","['hoezo', 'eet', 'nou', 'wer', 'jij', 'zien', 'eten']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+2042,Eet,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,3
+2047,Floor en ik moeten eeten,3: Eet smakelijk,,0.0,['eet'],"['flor', 'moet', 'eet']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+2049,Dat je veel eet,3: Eet smakelijk,,0.0,['eet'],['eet'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+2052,Een soort taart maar dan met groebtes en vlees en kaas,3: Eet smakelijk,3.0,1.0,"['taart', 'kas', 'vles']","['soort', 'taart', 'groebtes', 'vles', 'kas']",0.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,3
+2058,Smakelijk eten!!??,3: Eet smakelijk,,0.0,"['eten', 'smakelijk']","['smakelijk', 'eten']",2.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,17.0,3
+2060,Eet Smakelijk??,3: Eet smakelijk,,1.0,"['smakelijk', 'eet']","['eet', 'smakelijk']",0.0,11.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0.0,0.0,1.0,0.0,0.0,17.0,3
+2066,Hij was een ijsje aan het eten met zijn zus en nog iemand bij de jamin,3: Eet smakelijk,,0.0,['eten'],"['ijsj', 'eten', 'zus', 'jamin']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+2067, dikke hamburger,3: Eet smakelijk,4.0,0.0,['hamburger'],"['dik', 'hamburger']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.033333333333333326,0.0,0.0,1.0,0.0,0.0,16.0,3
+2092,Hahhaha je bent kaaaaaaaas,3: Eet smakelijk,4.0,0.0,['kas'],"['hahhaha', 'bent', 'kas']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,3
+2110,Doei ga eeten,3: Eet smakelijk,,0.0,['eet'],"['doei', 'ga', 'eet']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,3

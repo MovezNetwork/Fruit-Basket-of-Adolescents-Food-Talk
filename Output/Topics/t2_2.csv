@@ -1,0 +1,419 @@
+,Text,Topic,Rating,Likes,Food,Broad Filter,Media,Age,Gender,food,supermarkets,related,drinks,slang,diet,meals,Dmeals,words_no,Polarity,restaurants,brands,Media_0,Media_1,Media_2,BMI,topic_no
+0,Ham kaas op een tosti,2: Wat eet ik: Foods,3.0,2.0,"['ham', 'tosti', 'kas']","['ham', 'kas', 'tosti']",0.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1,Ham en kaas op een tosti like,2: Wat eet ik: Foods,3.0,1.0,"['ham', 'tosti', 'kas']","['ham', 'kas', 'tosti', 'lik']",0.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+11,Wie zn brood lekker? :-P ,2: Wat eet ik: Foods,1.0,2.0,['brod'],"['zn', 'brod', 'lekker']",1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.675,0.0,0.0,0.0,1.0,0.0,26.0,2
+17,Dit is groente patat het is fies,2: Wat eet ik: Foods,2.0,3.0,"['patat', 'groent']","['groent', 'patat', 'fies']",2.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,2
+18,Is het eten lekker allemaal,2: Wat eet ik: Foods,,0.0,['eten'],"['eten', 'lekker', 'allemal']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,22.0,2
+23,Lekker in de lidl,2: Wat eet ik: Foods,,0.0,['lidl'],"['lekker', 'lidl']",0.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,18.0,2
+25,Ik heb nu zin in een tosti,2: Wat eet ik: Foods,4.0,1.0,['tosti'],"['zin', 'tosti']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+26,Wat eten jullie ik patat nou vooral broodje gezond,2: Wat eet ik: Foods,3.0,1.0,"['patat', 'eten', 'gezond', 'broodj']","['eten', 'jullie', 'patat', 'nou', 'vooral', 'broodj', 'gezond']",0.0,10.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,4.0,0.5,0.0,0.0,1.0,0.0,0.0,17.0,2
+28,Jam,2: Wat eet ik: Foods,4.0,0.0,['jam'],['jam'],2.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+29,Zinin taart,2: Wat eet ik: Foods,4.0,1.0,['taart'],"['zinin', 'taart']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+32,Mmmmmm jummie,2: Wat eet ik: Foods,,0.0,['jummie'],"['mmm', 'jummie']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+34,Eten lekker,2: Wat eet ik: Foods,,0.0,['eten'],"['eten', 'lekker']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+35,Ik wil taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],['taart'],0.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+65,Ben aan hwt eten,2: Wat eet ik: Foods,,0.0,['eten'],"['hwt', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,2
+81,Ik ga lekker donut en tompouce eten omdat het gister valentijn was en ik nog wat had overgehouden,2: Wat eet ik: Foods,4.0,0.0,"['donut', 'eten', 'tompouc']","['ga', 'lekker', 'donut', 'tompouc', 'eten', 'gister', 'valentijn', 'overgehoud']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+91,Wij eten soort van friet maar groter en sla en kippenbout,2: Wat eet ik: Foods,4.0,3.0,"['eten', 'friet']","['wij', 'eten', 'soort', 'friet', 'groter', 'sla', 'kippenbout']",2.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,2
+95,Jumbo,2: Wat eet ik: Foods,,0.0,['jumbo'],['jumbo'],0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,2
+97,Goede reclame voor de Jumbo????,2: Wat eet ik: Foods,,0.0,['jumbo'],"['goed', 'reclam', 'jumbo']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,23.0,2
+98,Dat van jumbo neem het niet sirrieus,2: Wat eet ik: Foods,,0.0,['jumbo'],"['jumbo', 'nem', 'sirrieus']",0.0,10.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,2
+99,Ik bedoel het eigenlijk een haai maar ik weet dat het een vis.,2: Wat eet ik: Foods,1.0,0.0,['vis'],"['bedoel', 'eigen', 'haai', 'wet', 'vis']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+100,Ik ga tafelen,2: Wat eet ik: Foods,,0.0,['tafel'],"['ga', 'tafel']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+103,Gezonde!,2: Wat eet ik: Foods,,0.0,['gezond'],['gezond'],0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.625,0.0,0.0,1.0,0.0,0.0,15.0,2
+105,Ik heb sphaghetti met boerenkool paprika kip knoflook en walnoten gegeten rare combinatie maar wel lekker????????,2: Wat eet ik: Foods,2.0,1.0,"['paprika', 'kip', 'boerenkol', 'knoflok', 'walnot']","['sphaghetti', 'boerenkol', 'paprika', 'kip', 'knoflok', 'walnot', 'geget', 'rar', 'combinatie', 'wel', 'lekker']",0.0,10.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.09999999999999998,0.0,0.0,1.0,0.0,0.0,15.0,2
+114,Wat zijn dit voor frietjes?????????????????????????,2: Wat eet ik: Foods,4.0,0.0,['frietjes'],['frietjes'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,25.0,2
+115,Ja frietjes lekker,2: Wat eet ik: Foods,4.0,2.0,['frietjes'],"['frietjes', 'lekker']",2.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,25.0,2
+119,Wij hebben lekker aardappeltjes op met boomstammetjes ook nog brokkolie en als toetje yoggert het was lekker,2: Wat eet ik: Foods,2.0,4.0,"['yoggert', 'aardappeltjes', 'toetj']","['wij', 'lekker', 'aardappeltjes', 'boomstammetjes', 'brokkolie', 'toetj', 'yoggert', 'lekker']",2.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.6,0.0,0.0,0.0,0.0,1.0,17.0,2
+134,Kaas is lekker,2: Wat eet ik: Foods,4.0,0.0,['kas'],"['kas', 'lekker']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,21.0,2
+143,Als jij mama zegt je krijg gele rijst dan eet je geen witte rijst maar gele,2: Wat eet ik: Foods,1.0,1.0,"['rijst', 'rijst', 'eet']","['jij', 'mama', 'zegt', 'krijg', 'gel', 'rijst', 'eet', 'wit', 'rijst', 'gel']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.016666666666666666,0.0,0.0,1.0,0.0,0.0,18.0,2
+152,Ik wil rijst,2: Wat eet ik: Foods,1.0,1.0,['rijst'],['rijst'],0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,2
+161,"Nu moet ik echt eten, bay!!!",2: Wat eet ik: Foods,,0.0,['eten'],"['echt', 'eten', 'bay']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.390625,0.0,0.0,1.0,0.0,0.0,16.0,2
+165,Daily jij denkt alleen aan eten,2: Wat eet ik: Foods,,0.0,['eten'],"['daily', 'jij', 'denkt', 'allen', 'eten']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+181,Ik ga lekker tosti etahnnnnnn,2: Wat eet ik: Foods,4.0,0.0,['tosti'],"['ga', 'lekker', 'tosti', 'etahnn']",2.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,16.0,2
+185,???????? ik ben bijna thuis dan lekker eten ,2: Wat eet ik: Foods,,0.0,['eten'],"['bijna', 'thuis', 'lekker', 'eten']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,22.0,2
+188,Nee ik lust geen fufu mij vader eet dat wel omdat hij ganees is,2: Wat eet ik: Foods,,0.0,['eet'],"['nee', 'lust', 'fufu', 'vader', 'eet', 'wel', 'ganes']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,2
+197,Whahahaha ayoub sws ga ik eten chappen????,2: Wat eet ik: Foods,,0.0,['eten'],"['whahahaha', 'ayoub', 'sws', 'ga', 'eten', 'chapp']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+198,Milka,2: Wat eet ik: Foods,5.0,0.0,['milka'],['milka'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,20.0,2
+202,Thee chappen,2: Wat eet ik: Foods,2.0,0.0,['thee'],"['thee', 'chapp']",0.0,13.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+207,Ik heb hem lekker jummie,2: Wat eet ik: Foods,,0.0,['jummie'],"['lekker', 'jummie']",0.0,12.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,2
+209,Ja milka,2: Wat eet ik: Foods,5.0,0.0,['milka'],['milka'],0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,15.0,2
+210,Rachel a.u.b. milka oreo,2: Wat eet ik: Foods,5.0,0.0,"['milka', 'oreo']","['rachel', 'milka', 'oreo']",0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,15.0,2
+211,Milka oreo,2: Wat eet ik: Foods,5.0,0.0,"['milka', 'oreo']","['milka', 'oreo']",0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,15.0,2
+212,Jij zij net ook ice thee,2: Wat eet ik: Foods,2.0,0.0,['thee'],"['jij', 'net', 'ice', 'thee']",0.0,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,15.0,2
+213,Ik ham,2: Wat eet ik: Foods,2.0,0.0,['ham'],['ham'],0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+221,Frietjes gemist,2: Wat eet ik: Foods,4.0,1.0,['frietjes'],"['frietjes', 'gemist']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+239,Ik ben half vegetarisch omdat ik.geen kip vlees eet ,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'vles', 'eet']","['half', 'vegetarisch', 'kip', 'vles', 'eet']",0.0,12.0,0.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,-0.1,0.0,0.0,1.0,0.0,0.0,19.0,2
+242,Wat dan?? Kijk als iemand geen kippen vlees eet dan is hij toch vegetarier,2: Wat eet ik: Foods,2.0,0.0,"['vles', 'eet']","['kijk', 'kipp', 'vles', 'eet', 'vegetarier']",0.0,12.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+245,Dan lust je kip gwn niet je bent geen vega ????,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['lust', 'kip', 'gwn', 'bent', 'vega']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,25.0,2
+246,Nee dan lust je kip niet niks anders ,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['nee', 'lust', 'kip', 'nik', 'ander']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,25.0,2
+248,Kip,2: Wat eet ik: Foods,2.0,0.0,['kip'],['kip'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+251,Vind je de patatjes wel lekker,2: Wat eet ik: Foods,4.0,0.0,['patatjes'],"['vind', 'patatjes', 'wel', 'lekker']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,17.0,2
+255,Ben net klaar met eten nu het toetje ??  jam ,2: Wat eet ik: Foods,4.0,2.0,"['jam', 'eten', 'toetj']","['net', 'klar', 'eten', 'toetj', 'jam']",2.0,11.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.3666666666666667,0.0,0.0,0.0,0.0,1.0,16.0,2
+256,Jam jam,2: Wat eet ik: Foods,4.0,0.0,"['jam', 'jam']","['jam', 'jam']",2.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,2
+266,Ik ga eten dag??????????,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'eten', 'dag']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+272,Lucy is cupcake,2: Wat eet ik: Foods,4.0,0.0,['cupcak'],"['lucy', 'cupcak']",2.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+274,Mmmm???? wat ga jij eten ,2: Wat eet ik: Foods,,0.0,['eten'],"['mmm', 'ga', 'jij', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+275,Ik ga tosti eten,2: Wat eet ik: Foods,4.0,0.0,"['tosti', 'eten']","['ga', 'tosti', 'eten']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+276,Ik ga eten dag,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'eten', 'dag']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+278,Ik ga eten dag.  en like dit,2: Wat eet ik: Foods,,5.0,['eten'],"['ga', 'eten', 'dag', 'lik']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+284,Hoi lekker aan het eten,2: Wat eet ik: Foods,,0.0,['eten'],"['hoi', 'lekker', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+287,Je livelings eten toch louis,2: Wat eet ik: Foods,,0.0,['eten'],"['livel', 'eten', 'louis']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+288,Mmmmmm jammie,2: Wat eet ik: Foods,,0.0,['jammie'],"['mmm', 'jammie']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+289,Lekker eten,2: Wat eet ik: Foods,,2.0,['eten'],"['lekker', 'eten']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,18.0,2
+298,Like als je snoep lekker vind ,2: Wat eet ik: Foods,4.0,6.0,['snoep'],"['lik', 'snoep', 'lekker', 'vind']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,18.0,2
+303,Jummie,2: Wat eet ik: Foods,,0.0,['jummie'],['jummie'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+304,Like als je van pizza houdt,2: Wat eet ik: Foods,3.0,5.0,['pizza'],"['lik', 'pizza', 'houdt']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+305,Wie vind snoep nou niet lekker ,2: Wat eet ik: Foods,4.0,1.0,['snoep'],"['vind', 'snoep', 'nou', 'lekker']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.3,0.0,0.0,1.0,0.0,0.0,18.0,2
+306,??taart !!,2: Wat eet ik: Foods,4.0,0.0,['taart'],['taart'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+310,Lekker taart !!!!!,2: Wat eet ik: Foods,4.0,2.0,['taart'],"['lekker', 'taart']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,18.0,2
+312,Lekker aan het eten,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+316,Like als je taart lekker vind,2: Wat eet ik: Foods,4.0,2.0,['taart'],"['lik', 'taart', 'lekker', 'vind']",2.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,15.0,2
+319,Bedankt louis  Ik  ook een like bij de taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['bedankt', 'louis', 'lik', 'taart']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+327,"Ik heb taziki op mijn brood, heerlijk!!!",2: Wat eet ik: Foods,1.0,3.0,['brod'],"['taziki', 'brod', 'heerlijk']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+330,Lekker appel! ??,2: Wat eet ik: Foods,2.0,0.0,['appel'],"['lekker', 'appel']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.75,0.0,0.0,1.0,0.0,0.0,15.0,2
+368,Oreo's vreten :3,2: Wat eet ik: Foods,5.0,0.0,['oreo'],"['oreo', 'vret']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,1.0,1.0,0.0,0.0,26.0,2
+370,SOEP SOOF WEET WAT UK BEDOEL,2: Wat eet ik: Foods,2.0,5.0,['soep'],"['soep', 'sof', 'wet', 'uk', 'bedoel']",2.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,2
+371,Nope te gezond,2: Wat eet ik: Foods,,0.0,['gezond'],"['nop', 'gezond']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,16.0,2
+381,Bitterballen lekker,2: Wat eet ik: Foods,3.0,0.0,['bitterball'],"['bitterball', 'lekker']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+382,Uk eet friet met bitterballen lekker,2: Wat eet ik: Foods,4.0,0.0,"['friet', 'bitterball', 'eet']","['uk', 'eet', 'friet', 'bitterball', 'lekker']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+390,Kwatk taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['kwatk', 'taart']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,2
+392,Raps is eten slimerik,2: Wat eet ik: Foods,,0.0,['eten'],"['rap', 'eten', 'slimerik']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,2
+393,Smaakelijk eten,2: Wat eet ik: Foods,,0.0,['eten'],"['smaakelijk', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,2
+398,Lekker smoothie????????,2: Wat eet ik: Foods,2.0,3.0,['smoothie'],"['lekker', 'smoothie']",2.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,14.0,2
+401,Lekker thee,2: Wat eet ik: Foods,2.0,0.0,['thee'],"['lekker', 'thee']",0.0,9.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,14.0,2
+404,Toetje zeker,2: Wat eet ik: Foods,,0.0,['toetj'],"['toetj', 'zeker']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,1.0,0.0,0.0,14.0,2
+405,Ham kaas brood  = koude tosti,2: Wat eet ik: Foods,3.0,0.0,"['ham', 'tosti', 'brod', 'kas']","['ham', 'kas', 'brod', 'koud', 'tosti']",0.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,-0.4000000000000001,0.0,0.0,1.0,0.0,0.0,16.0,2
+406,Ham kaas op brood is tosti,2: Wat eet ik: Foods,3.0,0.0,"['ham', 'tosti', 'brod', 'kas']","['ham', 'kas', 'brod', 'tosti']",0.0,10.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+408,Wat is jammie,2: Wat eet ik: Foods,,0.0,['jammie'],['jammie'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+412,Leker eten,2: Wat eet ik: Foods,,0.0,['eten'],"['leker', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+413,Ik ga leker eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'leker', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+422,Ham,2: Wat eet ik: Foods,2.0,0.0,['ham'],['ham'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,12.0,2
+423,Jammie,2: Wat eet ik: Foods,,0.0,['jammie'],['jammie'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+426,Lekker een ardbeien  smoothie.,2: Wat eet ik: Foods,2.0,1.0,['smoothie'],"['lekker', 'ardbei', 'smoothie']",2.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,19.0,2
+427,Lekker gezond. ?? ??,2: Wat eet ik: Foods,,2.0,['gezond'],"['lekker', 'gezond']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,19.0,2
+428,Lekker gezond.,2: Wat eet ik: Foods,,0.0,['gezond'],"['lekker', 'gezond']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,19.0,2
+430,Ik heb gember thee gaakt,2: Wat eet ik: Foods,2.0,0.0,"['gember', 'thee']","['gember', 'thee', 'gaakt']",2.0,9.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,19.0,2
+442,Dit eet ik van daag,2: Wat eet ik: Foods,,0.0,['eet'],"['eet', 'dag']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+453,Ik patat ben aan het halen,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['patat', 'hal']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,2
+455,Ik ben taart aan het eten,2: Wat eet ik: Foods,4.0,0.0,"['taart', 'eten']","['taart', 'eten']",0.0,9.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+465,Dat is tog niet gezond,2: Wat eet ik: Foods,,0.0,['gezond'],"['tog', 'gezond']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.25,0.0,0.0,1.0,0.0,0.0,20.0,2
+467,Gezond,2: Wat eet ik: Foods,,0.0,['gezond'],['gezond'],2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,18.0,2
+471,Lekker eten ,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+480,Oreo cupcakes jamie,2: Wat eet ik: Foods,5.0,0.0,['oreo'],"['oreo', 'cupcakes', 'jamie']",0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,18.0,2
+483,Appeltaart,2: Wat eet ik: Foods,3.0,0.0,['appeltaart'],['appeltaart'],0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+489,Iedereen zegt kip,2: Wat eet ik: Foods,2.0,1.0,['kip'],"['iederen', 'zegt', 'kip']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+499,Ik wou kip zeggen,2: Wat eet ik: Foods,2.0,1.0,['kip'],"['wou', 'kip', 'zegg']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+501,Waarom kip,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['waarom', 'kip']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+502,Ik eve wat brood eten,2: Wat eet ik: Foods,1.0,0.0,"['eten', 'brod']","['eve', 'brod', 'eten']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+503,Ik ga mijn hele grote frikandel opeten,2: Wat eet ik: Foods,4.0,0.0,"['frikandel', 'opet']","['ga', 'hel', 'grot', 'frikandel', 'opet']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.5866666666666667,0.0,0.0,1.0,0.0,0.0,15.0,2
+504,Ik ben thee aan het maken,2: Wat eet ik: Foods,2.0,0.0,['thee'],"['thee', 'mak']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+509,#ham ham nam,2: Wat eet ik: Foods,2.0,1.0,"['ham', 'ham']","['ham', 'ham', 'nam']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+514,Jij bent zo lekker als die taart en cupcakes in n,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['jij', 'bent', 'lekker', 'taart', 'cupcakes']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+531,Rijst,2: Wat eet ik: Foods,1.0,1.0,['rijst'],['rijst'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,2
+534,Dit eet jij de hele dag door,2: Wat eet ik: Foods,,2.0,['eet'],"['eet', 'jij', 'hel', 'dag']",2.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0.0,0.0,0.0,0.0,1.0,18.0,2
+539,altijd nasi eten,2: Wat eet ik: Foods,2.0,0.0,"['nasi', 'eten']","['nasi', 'eten']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+544,Hoe dan ook ik ga nu NASI eten??,2: Wat eet ik: Foods,2.0,2.0,"['nasi', 'eten']","['ga', 'nasi', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+548,Eet smaakelek ,2: Wat eet ik: Foods,,0.0,['eet'],"['eet', 'smaakelek']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+554,"Hoi, is het eten lekker?",2: Wat eet ik: Foods,,0.0,['eten'],"['hoi', 'eten', 'lekker']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,18.0,2
+556,Dat ga ik lekker aleen ip eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'lekker', 'alen', 'ip', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+557,"Een tosti eten, en jij???",2: Wat eet ik: Foods,4.0,0.0,"['tosti', 'eten']","['tosti', 'eten', 'jij']",0.0,11.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+564,Ebik ga even rijst eten ok,2: Wat eet ik: Foods,1.0,0.0,"['rijst', 'eten']","['ebik', 'ga', 'even', 'rijst', 'eten', 'ok']",0.0,9.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,2
+566,Ik moet zometeen eten maar dit is echt leuk??????,2: Wat eet ik: Foods,,0.0,['eten'],"['zometen', 'eten', 'echt', 'leuk']",1.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.96,0.0,0.0,0.0,1.0,0.0,20.0,2
+568,Kip kip,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'kip']","['kip', 'kip']",1.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,20.0,2
+577,Die taart is lekker,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['taart', 'lekker']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+578,Lekkere soep??,2: Wat eet ik: Foods,2.0,0.0,['soep'],"['lekker', 'soep']",0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+588,Lekker en gezond,2: Wat eet ik: Foods,,1.0,['gezond'],"['lekker', 'gezond']",1.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,1.0,0.0,17.0,2
+593,Ik ben er straks pizza eten maar dat wil ik niet maa het moet,2: Wat eet ik: Foods,3.0,0.0,"['pizza', 'eten']","['strak', 'pizza', 'eten', 'maa']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+594,Ik ga iets lekker eten maar dan ongezond,2: Wat eet ik: Foods,,1.0,"['eten', 'ongezond']","['ga', 'lekker', 'eten', 'ongezond']",2.0,9.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+597,Dat ik van school was eten ik taart,2: Wat eet ik: Foods,4.0,0.0,"['taart', 'eten']","['schol', 'eten', 'taart']",2.0,9.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+603,Patat,2: Wat eet ik: Foods,4.0,0.0,['patat'],['patat'],0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+606,Ik ga taise kip eten zo lekker ??,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'eten']","['ga', 'tais', 'kip', 'eten', 'lekker']",0.0,9.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,27.0,2
+607,Dit eten is zo lekker niet alleen de kip maar ook de bonen met rijst een van mijn lievelings,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'rijst', 'eten']","['eten', 'lekker', 'allen', 'kip', 'bon', 'rijst', 'lievel']",0.0,9.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.6,0.0,0.0,1.0,0.0,0.0,27.0,2
+612,Kip??,2: Wat eet ik: Foods,2.0,0.0,['kip'],['kip'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,28.0,2
+619,Ik dag dat je vis zou eten,2: Wat eet ik: Foods,1.0,0.0,"['vis', 'eten']","['dag', 'vis', 'eten']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+632,Taise kip?,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['tais', 'kip']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+633,Ik heb er niet zin in om te eten hhahaha,2: Wat eet ik: Foods,,0.0,['eten'],"['zin', 'eten', 'hhahaha']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+638,Oreo,2: Wat eet ik: Foods,5.0,0.0,['oreo'],['oreo'],0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,15.0,2
+653,Lekkeren boterham met jam,2: Wat eet ik: Foods,4.0,0.0,['jam'],"['lekker', 'boterham', 'jam']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+673,Jammie!!,2: Wat eet ik: Foods,,0.0,['jammie'],['jammie'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+674,Jammie heb ik nu wel zin in,2: Wat eet ik: Foods,,1.0,['jammie'],"['jammie', 'wel', 'zin']",2.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,2
+675,Ik ga nu naar het ijs met hannie en de rest die daar is,2: Wat eet ik: Foods,4.0,0.0,['ijs'],"['ga', 'ijs', 'hannie', 'rest']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,16.0,2
+680,Hoi lust jij kip??,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['hoi', 'lust', 'jij', 'kip']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+682,Ik heb zin in wijn,2: Wat eet ik: Foods,,0.0,['wijn'],"['zin', 'wijn']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+683,Ik eet op een feestje ik heb helemaal geen zin in dat feestje hij is van mika,2: Wat eet ik: Foods,,0.0,['eet'],"['eet', 'feestj', 'helemal', 'zin', 'feestj', 'mika']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+686,Lekker gezond,2: Wat eet ik: Foods,,0.0,['gezond'],"['lekker', 'gezond']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,16.0,2
+698,Ik moet de tafel dekken en dan gaan we eten,2: Wat eet ik: Foods,,0.0,"['eten', 'tafel']","['tafel', 'dek', 'gan', 'we', 'eten']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+701,Zalm vind ik heel lekker,2: Wat eet ik: Foods,1.0,0.0,['zalm'],"['zalm', 'vind', 'hel', 'lekker']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9599999999999999,0.0,0.0,1.0,0.0,0.0,0.0,2
+705,Vis,2: Wat eet ik: Foods,1.0,0.0,['vis'],['vis'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+716,Vind jij zalm lekker,2: Wat eet ik: Foods,1.0,0.0,['zalm'],"['vind', 'jij', 'zalm', 'lekker']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,13.0,2
+718,Ik vind zalm ook lekker,2: Wat eet ik: Foods,1.0,0.0,['zalm'],"['vind', 'zalm', 'lekker']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,13.0,2
+744,Dit is mijn ochtent eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ochtent', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+750,Ik ga koek eten jammie lekker. ,2: Wat eet ik: Foods,,0.0,"['jammie', 'eten']","['ga', 'koek', 'eten', 'jammie', 'lekker']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,0.0,0.0,1.0,14.0,2
+752,De taart is voor sponsbob,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['taart', 'sponsbob']",2.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,2
+765,Ik moet even ochtend eten,2: Wat eet ik: Foods,,0.0,['eten'],"['even', 'ochtend', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+768,Pizza en soep,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'pizza']","['pizza', 'soep']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+777,Mij taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],['taart'],2.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+782,Mijn taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],['taart'],2.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+784,Dit is mijn ochtend eten,2: Wat eet ik: Foods,,1.0,['eten'],"['ochtend', 'eten']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+787,Moes eten,2: Wat eet ik: Foods,,0.0,['eten'],"['moes', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+795,Lekker WARME kop met thee,2: Wat eet ik: Foods,2.0,1.0,['thee'],"['lekker', 'warm', 'kop', 'thee']",2.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.7000000000000001,0.0,0.0,0.0,0.0,1.0,15.0,2
+807, Wat is jou ochtend eten,2: Wat eet ik: Foods,,1.0,['eten'],"['jou', 'ochtend', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+808,"Hoi,ik heb net een brootje kroket en frietjes",2: Wat eet ik: Foods,3.0,0.0,"['kroket', 'frietjes']","['hoi', 'net', 'brootj', 'kroket', 'frietjes']",2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,0.55,0.0,0.0,0.0,0.0,1.0,20.0,2
+828,# ????????????????????????????????????????Lekker eten,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+851,Ik heb net pasta gegeten,2: Wat eet ik: Foods,2.0,0.0,['pasta'],"['net', 'pasta', 'geget']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,18.0,2
+858,Ik ga nu eten een boter ham met pindakaas ;-) ;-) ,2: Wat eet ik: Foods,4.0,0.0,"['boter', 'ham', 'eten', 'pindakas']","['ga', 'eten', 'boter', 'ham', 'pindakas']",0.0,10.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.25,0.0,0.0,1.0,0.0,0.0,16.0,2
+862,Ik een borher ham met pindakaas,2: Wat eet ik: Foods,3.0,0.0,"['ham', 'pindakas']","['borher', 'ham', 'pindakas']",0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+866,Ik heb pasta gegeten,2: Wat eet ik: Foods,2.0,0.0,['pasta'],"['pasta', 'geget']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+869,Ik ga cruesli eten mmm...,2: Wat eet ik: Foods,2.0,0.0,"['cruesli', 'eten']","['ga', 'cruesli', 'eten', 'mm']",2.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+871,Ja lekker ongezond,2: Wat eet ik: Foods,,1.0,['ongezond'],"['lekker', 'ongezond']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+873,Ik ga cruesli eten,2: Wat eet ik: Foods,2.0,0.0,"['cruesli', 'eten']","['ga', 'cruesli', 'eten']",2.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+874,Wat ga je eten ik cruesli mmm.....,2: Wat eet ik: Foods,2.0,0.0,"['cruesli', 'eten']","['ga', 'eten', 'cruesli', 'mm']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+875,Is het koekje lekker???????????????????????????,2: Wat eet ik: Foods,4.0,0.0,['koekj'],"['koekj', 'lekker']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,13.0,2
+876,Ik ga zo eten pasta mmm??????,2: Wat eet ik: Foods,2.0,1.0,"['pasta', 'eten']","['ga', 'eten', 'pasta', 'mm']",1.0,11.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0,2
+877,Ben je lekker aan het eten???,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,13.0,2
+881,Ik heb friet met kip.balletjes,2: Wat eet ik: Foods,3.0,0.0,"['kip', 'friet']","['friet', 'kip', 'balletjes']",1.0,11.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0,2
+883,Ik had die lange gekrulde pasta,2: Wat eet ik: Foods,2.0,0.0,['pasta'],"['lang', 'gekruld', 'pasta']",1.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.1,0.0,0.0,0.0,1.0,0.0,13.0,2
+884,Ik heb frietjes op ?????????????????????????????? nee pasta met groente en als toetje een appel,2: Wat eet ik: Foods,2.0,0.0,"['appel', 'pasta', 'frietjes', 'groent', 'toetj']","['frietjes', 'nee', 'pasta', 'groent', 'toetj', 'appel']",2.0,11.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,13.0,2
+885,Leker koekje hoor nam nam nam,2: Wat eet ik: Foods,4.0,0.0,['koekj'],"['leker', 'koekj', 'hor', 'nam', 'nam', 'nam']",1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,2
+886,Leker gezond hoor??,2: Wat eet ik: Foods,,0.0,['gezond'],"['leker', 'gezond', 'hor']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,14.0,2
+892,Lekker ik eet vanavond pasta??????,2: Wat eet ik: Foods,2.0,0.0,"['pasta', 'eet']","['lekker', 'eet', 'vanavond', 'pasta']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,19.0,2
+899,Ik ga zo meteen ontbijten en bedoel ik nu dus doei,2: Wat eet ik: Foods,,0.0,['ontbijt'],"['ga', 'meten', 'ontbijt', 'bedoel', 'doei']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+912,Wie heeft zin in taart ,2: Wat eet ik: Foods,4.0,1.0,['taart'],"['zin', 'taart']",2.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,14.0,2
+918,Ok je bent aan het eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ok', 'bent', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+922,Ik heb vegetarische burgers jam met sla,2: Wat eet ik: Foods,3.0,1.0,"['jam', 'burger']","['vegetarisch', 'burger', 'jam', 'sla']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+923,Ik spaar psv kaartjes van jumbo bedoel je die,2: Wat eet ik: Foods,,0.0,"['spar', 'jumbo']","['spar', 'psv', 'kaartjes', 'jumbo', 'bedoel']",0.0,11.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,18.0,2
+926,Ik ben een aardappel,2: Wat eet ik: Foods,1.0,0.0,['aardappel'],['aardappel'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+927,Rip de aardappel,2: Wat eet ik: Foods,1.0,0.0,['aardappel'],"['rip', 'aardappel']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+939,Gezonde pauw!!!,2: Wat eet ik: Foods,,0.0,['gezond'],"['gezond', 'pauw']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9765625,0.0,0.0,0.0,0.0,1.0,17.0,2
+942,Wie heeft er zin in taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['zin', 'taart']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+945,Wie heeft er zin in om lekker ongezond te eten,2: Wat eet ik: Foods,,0.0,"['eten', 'ongezond']","['zin', 'lekker', 'ongezond', 'eten']",0.0,10.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,-0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+952,Heb net patatjes gegeten,2: Wat eet ik: Foods,4.0,0.0,['patatjes'],"['net', 'patatjes', 'geget']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.55,0.0,0.0,1.0,0.0,0.0,15.0,2
+957,Vind jij kip vies?,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['vind', 'jij', 'kip', 'vies']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.75,0.0,0.0,1.0,0.0,0.0,0.0,2
+958,Maar vind jij kip vies ? ??,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['vind', 'jij', 'kip', 'vies']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.75,0.0,0.0,1.0,0.0,0.0,0.0,2
+961,Ga jij nog iets leuks doen of wat ga je eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'jij', 'leuk', 'ga', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+962,Wij gaan kip avondeten vies????????????????????,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'avondet']","['wij', 'gan', 'kip', 'avondet', 'vies']",0.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-0.75,0.0,0.0,1.0,0.0,0.0,15.0,2
+969,Wanneer ga je eten Ik denk over een half uurtje ja of zelfs nog iets korter,2: Wat eet ik: Foods,,0.0,['eten'],"['wanner', 'ga', 'eten', 'denk', 'half', 'uurtj', 'zelf', 'korter']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.1,0.0,0.0,1.0,0.0,0.0,15.0,2
+973,Nu lekker eten DOEI,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten', 'doei']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,19.0,2
+976,Direct lekker frietjes eten met deniesje,2: Wat eet ik: Foods,4.0,1.0,"['frietjes', 'eten']","['direct', 'lekker', 'frietjes', 'eten', 'deniesj']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.66,0.0,0.0,1.0,0.0,0.0,19.0,2
+1006,Direct eten,2: Wat eet ik: Foods,,0.0,['eten'],"['direct', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,1.0,0.0,0.0,14.0,2
+1007,Jammmmmie,2: Wat eet ik: Foods,,0.0,['jammie'],['jammie'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1014,Lijkt me lekker deze cakejes maar nii allemaal in een keer eten??,2: Wat eet ik: Foods,4.0,1.0,"['cakejes', 'eten']","['lijkt', 'lekker', 'cakejes', 'nii', 'allemal', 'ker', 'eten']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.6,0.0,0.0,0.0,0.0,1.0,19.0,2
+1018,Frietjes,2: Wat eet ik: Foods,4.0,0.0,['frietjes'],['frietjes'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1019, Ontbijt in mijn hoofd denk ik dan dat het lekker is,2: Wat eet ik: Foods,,0.0,['ontbijt'],"['ontbijt', 'hoofd', 'denk', 'lekker']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,2
+1023,Hoi lekker pannenkoeken aan het eten mmmmmmmm????,2: Wat eet ik: Foods,2.0,0.0,"['pannenkoek', 'eten']","['hoi', 'lekker', 'pannenkoek', 'eten', 'mm']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+1024,Lekker aan het eten??,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+1036,Laura ziet mij eten,2: Wat eet ik: Foods,,1.0,['eten'],"['laura', 'ziet', 'eten']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1038,Ik ga zo lekker eten??,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'lekker', 'eten']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,16.0,2
+1040,Jawel ik lig in bed de hele dag al bijna eten en weer naar bed,2: Wat eet ik: Foods,,0.0,['eten'],"['jawel', 'lig', 'bed', 'hel', 'dag', 'bijna', 'eten', 'wer', 'bed']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.2583333333333333,0.0,0.0,1.0,0.0,0.0,17.0,2
+1051,K heb lekker zin in taart jam,2: Wat eet ik: Foods,4.0,0.0,"['jam', 'taart']","['lekker', 'zin', 'taart', 'jam']",0.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,2
+1053,Love you too en ik heb patat gegeten en tomaat,2: Wat eet ik: Foods,3.0,0.0,"['patat', 'tomat']","['lov', 'you', 'too', 'patat', 'geget', 'tomat']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1057,Ik ga rijst met kip eten,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'rijst', 'eten']","['ga', 'rijst', 'kip', 'eten']",0.0,10.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1061,Ik ga rijst eten jaaaaa jeeeej yeahh lekker!!!!??????????????????????,2: Wat eet ik: Foods,1.0,0.0,"['rijst', 'eten']","['ga', 'rijst', 'eten', 'jaa', 'jej', 'yeahh', 'lekker']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1065,Ik ga vandaag lahgmagun eten!!!!!????????,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'vandag', 'lahgmagun', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1073,Zo lekker in de zomer om te eten mmmmmm!!! Jammie jam jummie jum!!!????????????????????????,2: Wat eet ik: Foods,4.0,0.0,"['jam', 'jammie', 'jummie', 'eten']","['lekker', 'zomer', 'eten', 'mm', 'jammie', 'jam', 'jummie', 'jum']",2.0,10.0,1.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,1.0,20.0,2
+1077,Ik altijd woensdag royal pizza,2: Wat eet ik: Foods,3.0,0.0,['pizza'],"['woensdag', 'royal', 'pizza']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1081,Ik ga syampot met apelmoes en gehackt ballen eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'syampot', 'apelmoes', 'gehackt', 'ball', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,2
+1085,Theeee,2: Wat eet ik: Foods,2.0,0.0,['thee'],['thee'],0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1088,Ik ga rijst met bonen eten,2: Wat eet ik: Foods,1.0,0.0,"['rijst', 'eten']","['ga', 'rijst', 'bon', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1089,Challas mensen ik moet eten,2: Wat eet ik: Foods,,0.0,['eten'],"['challas', 'mens', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1091,Donut,2: Wat eet ik: Foods,4.0,0.0,['donut'],['donut'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1092,Het is een minnie donut,2: Wat eet ik: Foods,4.0,0.0,['donut'],"['minnie', 'donut']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1099,Omayma Wat ga jij eten ik ga kip eten En wat ga jij ok challas bff Tot straks Ik bel en ik bedoel ik heb je nog wel ok Love you,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'eten', 'eten']","['omayma', 'ga', 'jij', 'eten', 'ga', 'kip', 'eten', 'ga', 'jij', 'ok', 'challas', 'bff', 'strak', 'bel', 'bedoel', 'wel', 'ok', 'lov', 'you']",0.0,9.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1101,Gister bij jou tafel,2: Wat eet ik: Foods,,0.0,['tafel'],"['gister', 'jou', 'tafel']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1118,Waaneer je eten ziet,2: Wat eet ik: Foods,,0.0,['eten'],"['waaner', 'eten', 'ziet']",1.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,24.0,2
+1120,Broodje zalm is lekker,2: Wat eet ik: Foods,2.0,0.0,"['zalm', 'broodj']","['broodj', 'zalm', 'lekker']",0.0,12.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,24.0,2
+1123,Soep,2: Wat eet ik: Foods,2.0,0.0,['soep'],['soep'],2.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+1125,Taart,2: Wat eet ik: Foods,4.0,1.0,['taart'],['taart'],0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1129,Hkip kip kip kip kip kip kip kip kerststukjes,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip']","['hkip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kip', 'kerststukjes']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1135,Ik heb een banaan mee ik ga hem nu pakken,2: Wat eet ik: Foods,2.0,0.0,['banan'],"['banan', 'mee', 'ga', 'pak']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1139,Lekker nu nog eten,2: Wat eet ik: Foods,,3.0,['eten'],"['lekker', 'eten']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,15.0,2
+1140,Ik denk dat het gezond is,2: Wat eet ik: Foods,,0.0,['gezond'],"['denk', 'gezond']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,15.0,2
+1142,Het is gezond denk ik,2: Wat eet ik: Foods,,0.0,['gezond'],"['gezond', 'denk']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,18.0,2
+1146,Zak patat,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['zak', 'patat']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1149,Ik aardappel met sla en een slavink,2: Wat eet ik: Foods,3.0,0.0,"['aardappel', 'slavink']","['aardappel', 'sla', 'slavink']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1167,Kan niet ga zo eten eten kippen soep en kan meschien morgen ik ga morgen niet afspreken dus ik kan morgen wel met jou. Ben nu even monopoly aan het spelen met mandy?????????,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'eten', 'eten']","['ga', 'eten', 'eten', 'kipp', 'soep', 'meschien', 'morg', 'ga', 'morg', 'afsprek', 'morg', 'wel', 'jou', 'even', 'monopoly', 'spel', 'mandy']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1169,Ik vind het prima hahhahahah ik ga zo brood met thee nemen als ochtend eten en als avond eten hadden wij gisteren kippensoep en nu heb ik voor in de middag lekkerenwarme kippensoep??????????????????????????????????????????????????????????????????????????????????????,2: Wat eet ik: Foods,2.0,0.0,"['thee', 'eten', 'eten', 'brod']","['vind', 'prima', 'hahhahahah', 'ga', 'brod', 'thee', 'nem', 'ochtend', 'eten', 'avond', 'eten', 'had', 'wij', 'gister', 'kippensoep', 'middag', 'lekkerenwarm', 'kippensoep']",0.0,9.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,0.7,0.0,0.0,1.0,0.0,0.0,15.0,2
+1171,Ga eten doei sammy,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'eten', 'doei', 'sammy']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1178,Nasi met kip,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'nasi']","['nasi', 'kip']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1183,Is dit gezond ? Of niet,2: Wat eet ik: Foods,,2.0,['gezond'],['gezond'],2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,17.0,2
+1189,Sammy ik ga eten doei! Ik neem wat thee voor mijn keel,2: Wat eet ik: Foods,2.0,0.0,"['thee', 'eten']","['sammy', 'ga', 'eten', 'doei', 'nem', 'thee', 'kel']",2.0,10.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,2
+1191,Is dit gezond of niet?,2: Wat eet ik: Foods,,1.0,['gezond'],['gezond'],2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,18.0,2
+1193,Ik moet eten lekker pannenkowken doei,2: Wat eet ik: Foods,,0.0,['eten'],"['eten', 'lekker', 'pannenkowk', 'doei']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,0.0,2
+1195,Ik brood mey ei en kaas,2: Wat eet ik: Foods,3.0,0.0,"['brod', 'kas']","['brod', 'mey', 'ei', 'kas']",0.0,10.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,2
+1198,Ik ben aan ht ontbijten????,2: Wat eet ik: Foods,,0.0,['ontbijt'],"['ht', 'ontbijt']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,2
+1199,Lekker tagiratela eten mmmm,2: Wat eet ik: Foods,,3.0,['eten'],"['lekker', 'tagiratela', 'eten', 'mm']",1.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,1.0,0.0,18.0,2
+1200,Creusly met melk ook lekker??,2: Wat eet ik: Foods,4.0,0.0,['melk'],"['creusly', 'melk', 'lekker']",2.0,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,18.0,2
+1201,Zeker hoop ik dat eten ,2: Wat eet ik: Foods,,0.0,['eten'],"['zeker', 'hop', 'eten']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,0.0,0.0,1.0,18.0,2
+1204,Omg jammie,2: Wat eet ik: Foods,,0.0,['jammie'],"['omg', 'jammie']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,2
+1213,Lekker toetje??????,2: Wat eet ik: Foods,,0.0,['toetj'],"['lekker', 'toetj']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,15.0,2
+1214,Lekker toetje.??,2: Wat eet ik: Foods,,3.0,['toetj'],"['lekker', 'toetj']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,15.0,2
+1219,Biefstuk,2: Wat eet ik: Foods,3.0,0.0,['biefstuk'],['biefstuk'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,13.0,2
+1221,Denken waaneer jw wen kip ben,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['denk', 'waaner', 'jw', 'wen', 'kip']",1.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0,2
+1236,Ik heb taart gegeten,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['taart', 'geget']",2.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+1239,Een kip zegt moeeee,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['kip', 'zegt', 'moee']",0.0,12.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1257,Ikga nu lekker tosti etem mmmmmmm??,2: Wat eet ik: Foods,4.0,0.0,['tosti'],"['ikga', 'lekker', 'tosti', 'etem', 'mm']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+1258,Dat is gezond,2: Wat eet ik: Foods,,0.0,['gezond'],['gezond'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,15.0,2
+1260,Lekker bij me oma eten,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'oma', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+1274,Jam jam????,2: Wat eet ik: Foods,4.0,0.0,"['jam', 'jam']","['jam', 'jam']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+1275,Domme kip,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['domm', 'kip']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.7,0.0,0.0,1.0,0.0,0.0,15.0,2
+1279,Wie anders kip,2: Wat eet ik: Foods,2.0,1.0,['kip'],"['ander', 'kip']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,29.0,2
+1289,Pindakaas met hagelslag,2: Wat eet ik: Foods,4.0,0.0,"['hagelslag', 'pindakas']","['pindakas', 'hagelslag']",0.0,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1302,Vandaag ga ik patat eten ,2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['vandag', 'ga', 'patat', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1304,Ik zit een kipcorn te eten,2: Wat eet ik: Foods,2.0,0.0,"['kipcorn', 'eten']","['zit', 'kipcorn', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1305, Wat eten jullie ik patatjes met kipcorn,2: Wat eet ik: Foods,3.0,0.0,"['patatjes', 'kipcorn', 'eten']","['eten', 'jullie', 'patatjes', 'kipcorn']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1316,Ik eet een krentenbol,2: Wat eet ik: Foods,4.0,0.0,"['krentenbol', 'eet']","['eet', 'krentenbol']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1328,Lekkere taart hoor,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['lekker', 'taart', 'hor']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,29.0,2
+1338,Hallo lekker eten hoor,2: Wat eet ik: Foods,,0.0,['eten'],"['hallo', 'lekker', 'eten', 'hor']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+1340,Ja patat????????????????????,2: Wat eet ik: Foods,4.0,0.0,['patat'],['patat'],0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1341,Wie heeft et patat gegeten,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['et', 'patat', 'geget']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1343,Boeien waneer jullie patat dag is wat kan ons dat schelen ik heb gisteren ook wel patat gehad,2: Wat eet ik: Foods,4.0,0.0,"['patat', 'patat']","['boei', 'waner', 'jullie', 'patat', 'dag', 'schel', 'gister', 'wel', 'patat', 'gehad']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1352,Moet nog even ga patat eten Hebben jullie al gegeten,2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['even', 'ga', 'patat', 'eten', 'jullie', 'geget']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1353,"Ik ga nu eten, zaterdagis bij ons patat dag",2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['ga', 'eten', 'zaterdagis', 'patat', 'dag']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1354,Lekker eten.??,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",1.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,1.0,0.0,16.0,2
+1369,Lekker gezonde mc donalds eten,2: Wat eet ik: Foods,,0.0,"['eten', 'gezond']","['lekker', 'gezond', 'mc', 'donald', 'eten']",0.0,10.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.5,0.0,0.0,1.0,0.0,0.0,15.0,2
+1374,Ik ben gebakken ei met spek en sla aan het eten,2: Wat eet ik: Foods,4.0,0.0,"['gebak', 'eten']","['gebak', 'ei', 'spek', 'sla', 'eten']",0.0,10.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,13.0,2
+1379,Nu heb ik zin in taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['zin', 'taart']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+1382,Wij gaan tosty eten,2: Wat eet ik: Foods,,0.0,['eten'],"['wij', 'gan', 'tosty', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1388,Met die Oreo cakejes?,2: Wat eet ik: Foods,4.0,0.0,"['cakejes', 'oreo']","['oreo', 'cakejes']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,18.0,2
+1395,Gisteren heb ik een appel en een peer gehad dat was het enige want ik kon bijna niks eten,2: Wat eet ik: Foods,2.0,1.0,"['appel', 'eten']","['gister', 'appel', 'per', 'gehad', 'enig', 'bijna', 'nik', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.55,0.0,0.0,1.0,0.0,0.0,16.0,2
+1401,Wij patat lekkerrrrre,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['wij', 'patat', 'lekkerr']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1405,Wij zijn lekker aan het ontbijten lekkere oetsmieter,2: Wat eet ik: Foods,,0.0,['ontbijt'],"['wij', 'lekker', 'ontbijt', 'lekker', 'oetsmieter']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,16.0,2
+1406,Gezond eten is ook belangrijk,2: Wat eet ik: Foods,,0.0,"['eten', 'gezond']","['gezond', 'eten', 'belangrijk']",0.0,11.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.425,0.0,0.0,1.0,0.0,0.0,16.0,2
+1407,Ik vind thee niet lekker bah,2: Wat eet ik: Foods,2.0,0.0,['thee'],"['vind', 'thee', 'lekker', 'bah']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,-0.3,0.0,0.0,1.0,0.0,0.0,19.0,2
+1418,Met tomaten soep,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'tomat']","['tomat', 'soep']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1422,Ik moet nog eten ik lig nog in bed dus,2: Wat eet ik: Foods,,0.0,['eten'],"['eten', 'lig', 'bed']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1429,Taart aan het eten,2: Wat eet ik: Foods,4.0,0.0,"['taart', 'eten']","['taart', 'eten']",2.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0,2
+1430,Taart aan het eten!!!! Hahahahaha,2: Wat eet ik: Foods,4.0,0.0,"['taart', 'eten']","['taart', 'eten', 'hahahahaha']",2.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0,2
+1434,Melk bedoel  ik,2: Wat eet ik: Foods,4.0,0.0,['melk'],"['melk', 'bedoel']",0.0,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1436,Okra,2: Wat eet ik: Foods,1.0,0.0,['okra'],['okra'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1440,Vergeet niet vrijdag soep en gym,2: Wat eet ik: Foods,2.0,0.0,['soep'],"['verget', 'vrijdag', 'soep', 'gym']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1441,Ik heb zin in pizza,2: Wat eet ik: Foods,3.0,0.0,['pizza'],"['zin', 'pizza']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1442,Ik heb geen zin in taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['zin', 'taart']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1445,Kijk hoe lekker ik wil dit echt eten ????????,2: Wat eet ik: Foods,,0.0,['eten'],"['kijk', 'lekker', 'echt', 'eten']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,0.0,0.0,1.0,18.0,2
+1463,ETen en gym,2: Wat eet ik: Foods,,0.0,['eten'],"['eten', 'gym']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1469,Met dat van mattie wel met pizza is lekker was niet perongeluk maar dat stuurde mattie dus,2: Wat eet ik: Foods,3.0,0.0,['pizza'],"['mattie', 'wel', 'pizza', 'lekker', 'perongeluk', 'stuurd', 'mattie']",0.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,19.0,2
+1485,Lekker aan het eten met de jongens,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten', 'jongen']",0.0,14.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,17.0,2
+1496,Hoi Lindy heb jij zin in de rest van je dag en anders ook voor voor morgen Heb je er zin in wat ga jij vanavond eten Ik eet het plaatje dat Hierbij staat Ja ok ik heb niet echt zin wat het is om te zeggen ok wat ga jij eten Hoe is het trouwens met je zusje houden als je vader Ok dan zijn ouders maar ook vader Ik bedoel gewoon ouders Heb je al een keer gezwommen Ik kan trouwens morgen niet spelen dinsdag dus want dan moet ik weer naar de dokter dat vandaag woensdag kan ik niet dan ga ik naar Canisius en donderdag kan ik op zich denk ik wel een vrijdag denk ik heel misschien ook maar moet even kijken want we gaan nog een keer met daarna jou en dan hadden met ze drien spelen ja ik hoop dat je nog kandoi??????????????????????,2: Wat eet ik: Foods,,0.0,"['eten', 'eten', 'eet']","['hoi', 'lindy', 'jij', 'zin', 'rest', 'dag', 'ander', 'morg', 'zin', 'ga', 'jij', 'vanavond', 'eten', 'eet', 'plaatj', 'hierbij', 'stat', 'ok', 'echt', 'zin', 'zegg', 'ok', 'ga', 'jij', 'eten', 'trouwen', 'zusj', 'houd', 'vader', 'ok', 'ouder', 'vader', 'bedoel', 'gewon', 'ouder', 'ker', 'gezwomm', 'trouwen', 'morg', 'spel', 'dinsdag', 'wer', 'dokter', 'vandag', 'woensdag', 'ga', 'canisius', 'donderdag', 'denk', 'wel', 'vrijdag', 'denk', 'hel', 'misschien', 'even', 'kijk', 'we', 'gan', 'ker', 'daarna', 'jou', 'had', 'drien', 'spel', 'hop', 'kandoi']",0.0,12.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,-0.2111111111111111,0.0,0.0,1.0,0.0,0.0,0.0,2
+1498,Pak het aan ondercse tafel ik heb geen zin om aan jill te geven????,2: Wat eet ik: Foods,,0.0,['tafel'],"['pak', 'onderc', 'tafel', 'zin', 'jill', 'gev']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,23.0,2
+1502,Heb je zin vanavond frietjes naar het voetbal,2: Wat eet ik: Foods,4.0,0.0,['frietjes'],"['zin', 'vanavond', 'frietjes', 'voetbal']",0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,18.0,2
+1507,Is dit de papa van de kip of niet?,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['papa', 'kip']",1.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,2
+1517,Lekker en gezond????????????,2: Wat eet ik: Foods,,2.0,['gezond'],"['lekker', 'gezond']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,17.0,2
+1518,Brent's lievelings ontbijt,2: Wat eet ik: Foods,,1.0,['ontbijt'],"['brent', 'lievel', 'ontbijt']",2.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,17.0,2
+1521,Als brent cake ziet,2: Wat eet ik: Foods,4.0,1.0,['cak'],"['brent', 'cak', 'ziet']",1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,15.0,2
+1522,Lekker frikandelle eten,2: Wat eet ik: Foods,,2.0,['eten'],"['lekker', 'frikandell', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+1526,Jij bent 99999 X zo lekker als deze donuts,2: Wat eet ik: Foods,4.0,0.0,['donut'],"['jij', 'bent', '99', 'lekker', 'donut']",2.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,17.0,2
+1530,Wat met kip mad ,2: Wat eet ik: Foods,2.0,1.0,['kip'],"['kip', 'mad']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1531,Wat met kip,2: Wat eet ik: Foods,2.0,0.0,['kip'],['kip'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1536,Het zal me een worst wezen,2: Wat eet ik: Foods,3.0,3.0,['worst'],['worst'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1545,Iets met kip,2: Wat eet ik: Foods,2.0,1.0,['kip'],['kip'],0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1547,"Wij eten patat, sorry dat ik nii wou spelen ik ben gwn moe",2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['wij', 'eten', 'patat', 'sorry', 'nii', 'wou', 'spel', 'gwn', 'moe']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,-0.5,0.0,0.0,1.0,0.0,0.0,16.0,2
+1548,Vond jij het eten leker,2: Wat eet ik: Foods,,0.0,['eten'],"['vond', 'jij', 'eten', 'leker']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1549,Omg haha weer kip,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['omg', 'haha', 'wer', 'kip']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1552,Groovy jam fortnite,2: Wat eet ik: Foods,4.0,1.0,['jam'],"['groovy', 'jam', 'fortnit']",1.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,16.0,2
+1577,Nasi,2: Wat eet ik: Foods,2.0,0.0,['nasi'],['nasi'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1585,Lekker gezond (niet dus),2: Wat eet ik: Foods,,0.0,['gezond'],"['lekker', 'gezond']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,18.0,2
+1590,Het zijn maar donuts die geschildert zijn??,2: Wat eet ik: Foods,4.0,0.0,['donut'],"['donut', 'geschildert']",0.0,12.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1597,Jo dit is jammie donuts donuts lekker lekker,2: Wat eet ik: Foods,4.0,1.0,"['donut', 'donut', 'jammie']","['jo', 'jammie', 'donut', 'donut', 'lekker', 'lekker']",2.0,9.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,3.0,0.6,0.0,0.0,0.0,0.0,1.0,15.0,2
+1598,Lekker lekker mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm! Dit is jammie,2: Wat eet ik: Foods,,0.0,['jammie'],"['lekker', 'lekker', 'mm', 'jammie']",2.0,9.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.75,0.0,0.0,0.0,0.0,1.0,15.0,2
+1612,Ja dan krijg je snoep als je het zegt,2: Wat eet ik: Foods,4.0,0.0,['snoep'],"['krijg', 'snoep', 'zegt']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1619,Want mijn vader is aan tafel,2: Wat eet ik: Foods,,0.0,['tafel'],"['vader', 'tafel']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1629,Ok doei tot straks ik ga eten,2: Wat eet ik: Foods,,0.0,['eten'],"['ok', 'doei', 'strak', 'ga', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1636,Jammie bedoel ik,2: Wat eet ik: Foods,,0.0,['jammie'],"['jammie', 'bedoel']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1641,Nee ik lust geen marsepein,2: Wat eet ik: Foods,4.0,0.0,['marsepein'],"['nee', 'lust', 'marsepein']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1645,Wij gaan soep eten met balletjes,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'eten']","['wij', 'gan', 'soep', 'eten', 'balletjes']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+1646,Sorry ik bedoel pasta ,2: Wat eet ik: Foods,2.0,0.0,['pasta'],"['sorry', 'bedoel', 'pasta']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+1647,Pap zij soep,2: Wat eet ik: Foods,2.0,0.0,['soep'],"['pap', 'soep']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+1653,Heb je  ook gezond gegeten,2: Wat eet ik: Foods,,0.0,['gezond'],"['gezond', 'geget']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.5,0.0,0.0,1.0,0.0,0.0,16.0,2
+1656,Ik vind het leuk dat wij vanavond pizza eten joepie,2: Wat eet ik: Foods,3.0,0.0,"['pizza', 'eten']","['vind', 'leuk', 'wij', 'vanavond', 'pizza', 'eten', 'joepie']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.6,0.0,0.0,0.0,0.0,1.0,14.0,2
+1668,Jamie ik heb net gegeten echt lekker eten hier,2: Wat eet ik: Foods,,1.0,['eten'],"['jamie', 'net', 'geget', 'echt', 'lekker', 'eten']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.755,0.0,0.0,0.0,0.0,1.0,14.0,2
+1669,Ja heel leuk en er is heel lekker eten,2: Wat eet ik: Foods,,0.0,['eten'],"['hel', 'leuk', 'hel', 'lekker', 'eten']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9599999999999999,0.0,0.0,1.0,0.0,0.0,14.0,2
+1671,Ik heb broodje swarma op ,2: Wat eet ik: Foods,2.0,0.0,['broodj'],"['broodj', 'swarma']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,2
+1672,Tess vindt pasta,2: Wat eet ik: Foods,2.0,0.0,['pasta'],"['tes', 'vindt', 'pasta']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,2
+1673,Wat pasta,2: Wat eet ik: Foods,2.0,0.0,['pasta'],['pasta'],0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,21.0,2
+1675,Superleuk Ik eet vanavond pannenkoeken zin in,2: Wat eet ik: Foods,2.0,0.0,"['pannenkoek', 'eet']","['superleuk', 'eet', 'vanavond', 'pannenkoek', 'zin']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,21.0,2
+1678,Ook nog bedankt sorry heel paat gereageert,2: Wat eet ik: Foods,2.0,0.0,['pat'],"['bedankt', 'sorry', 'hel', 'pat', 'gereageert']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.13333333333333333,0.0,0.0,1.0,0.0,0.0,15.0,2
+1684,Pasta,2: Wat eet ik: Foods,2.0,0.0,['pasta'],['pasta'],0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1690,Ik zit aan tafel,2: Wat eet ik: Foods,,0.0,['tafel'],"['zit', 'tafel']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1695,Ik ga bijna eten mmmm????,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'bijna', 'eten', 'mm']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+1699,"Lekker , ik weet niet wat ik ga eten ",2: Wat eet ik: Foods,,1.0,['eten'],"['lekker', 'wet', 'ga', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,2
+1702,Lekkerre frietjes,2: Wat eet ik: Foods,4.0,1.0,['frietjes'],"['lekkerr', 'frietjes']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1704,Hele goeie combinatie met eten,2: Wat eet ik: Foods,,0.0,['eten'],"['hel', 'goei', 'combinatie', 'eten']",0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9599999999999999,0.0,0.0,1.0,0.0,0.0,17.0,2
+1706,Ik ga eten pasta??,2: Wat eet ik: Foods,2.0,0.0,"['pasta', 'eten']","['ga', 'eten', 'pasta']",0.0,11.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1707,Nee pasta,2: Wat eet ik: Foods,2.0,0.0,['pasta'],"['nee', 'pasta']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1708,Ik ga vis halen,2: Wat eet ik: Foods,1.0,0.0,['vis'],"['ga', 'vis', 'hal']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1716,Is de vis lekker???????????????????????????????????????,2: Wat eet ik: Foods,1.0,0.0,['vis'],"['vis', 'lekker']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,13.0,2
+1718,Wij soep met brood ????????????????????????????????????????????,2: Wat eet ik: Foods,1.0,0.0,"['soep', 'brod']","['wij', 'soep', 'brod']",0.0,11.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,13.0,2
+1722,Wij gaan nu toetje eten taart ,2: Wat eet ik: Foods,4.0,0.0,"['taart', 'eten', 'toetj']","['wij', 'gan', 'toetj', 'eten', 'taart']",2.0,11.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,2
+1723,Hij bedoelt Ik ga sla eten,2: Wat eet ik: Foods,,0.0,['eten'],"['bedoelt', 'ga', 'sla', 'eten']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1739,Heeft hij bog een keer ip tafel geslapen,2: Wat eet ik: Foods,,0.0,['tafel'],"['bog', 'ker', 'ip', 'tafel', 'geslap']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1743,Muck staat weer op tafel,2: Wat eet ik: Foods,,0.0,['tafel'],"['muck', 'stat', 'wer', 'tafel']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1759,Leker pizza eten,2: Wat eet ik: Foods,3.0,0.0,"['pizza', 'eten']","['leker', 'pizza', 'eten']",2.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0,2
+1763,Ik kip reis en bonen ,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['kip', 'reis', 'bon']",0.0,9.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,27.0,2
+1769,Ik heb nog niet gegeten maar ik ga soep eten jammie,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'jammie', 'eten']","['geget', 'ga', 'soep', 'eten', 'jammie']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1772,Ik ga soep met spagettie eten jammie,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'jammie', 'eten']","['ga', 'soep', 'spagettie', 'eten', 'jammie']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1773,Ik eet nu soep en spagettie,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'eet']","['eet', 'soep', 'spagettie']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1777,Mjammie jam,2: Wat eet ik: Foods,4.0,0.0,['jam'],"['mjammie', 'jam']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+1782,Wij mogen pas eten tot half tien met ramadan,2: Wat eet ik: Foods,,0.0,['eten'],"['wij', 'mog', 'pas', 'eten', 'half', 'tien', 'ramadan']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,-0.1,0.0,0.0,1.0,0.0,0.0,20.0,2
+1787,Dit is geen taart kijk maar goed,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['taart', 'kijk', 'goed']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.55,0.0,0.0,0.0,0.0,1.0,20.0,2
+1793,Ik zit lekker watermeloen te ETEN!,2: Wat eet ik: Foods,2.0,0.0,"['watermeloen', 'eten']","['zit', 'lekker', 'watermeloen', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.75,0.0,0.0,1.0,0.0,0.0,20.0,2
+1794,Ik zit lekker watermeloen te eten,2: Wat eet ik: Foods,2.0,0.0,"['watermeloen', 'eten']","['zit', 'lekker', 'watermeloen', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,20.0,2
+1798,9uur naar cami om te eten lekker mmmm,2: Wat eet ik: Foods,,0.0,['eten'],"['9ur', 'cami', 'eten', 'lekker', 'mm']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.024999999999999967,0.0,0.0,1.0,0.0,0.0,17.0,2
+1799,Ik heb niet alles opgegeten hahah,2: Wat eet ik: Foods,,0.0,['opgeget'],"['opgeget', 'hahah']",0.0,9.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2
+1830,Ik in chocolade lekker gezond!,2: Wat eet ik: Foods,5.0,0.0,"['gezond', 'chocolad']","['chocolad', 'lekker', 'gezond']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.625,0.0,0.0,1.0,0.0,0.0,0.0,2
+1838,Hahah ik moet eten doei,2: Wat eet ik: Foods,,0.0,['eten'],"['hahah', 'eten', 'doei']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1843,Een broodje soort van deeg met groente en kip erin mmm,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'broodj', 'groent']","['broodj', 'soort', 'deg', 'groent', 'kip', 'erin', 'mm']",0.0,11.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1856,Marva 20 over mogen we eten en niet half,2: Wat eet ik: Foods,,0.0,['eten'],"['marva', '20', 'mog', 'we', 'eten', 'half']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.05,0.0,0.0,1.0,0.0,0.0,25.0,2
+1876,Kaaaaaaaaaaaaaaaaaas is lekker ,2: Wat eet ik: Foods,4.0,2.0,['kas'],"['kas', 'lekker']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,0.0,2
+1877,Ikkk steaks met sammy over half uurtje,2: Wat eet ik: Foods,3.0,0.0,['steak'],"['ikk', 'steak', 'sammy', 'half', 'uurtj']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,-0.1,0.0,0.0,1.0,0.0,0.0,15.0,2
+1881,Wat is er met patat,2: Wat eet ik: Foods,4.0,0.0,['patat'],['patat'],0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1887,Ga patat eten ??????????????????????????????????????????????????????????????????????????????????????????,2: Wat eet ik: Foods,4.0,1.0,"['patat', 'eten']","['ga', 'patat', 'eten']",0.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+1888,Patat ,2: Wat eet ik: Foods,4.0,1.0,['patat'],['patat'],1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,14.0,2
+1894,Wie is nou de kip???????,2: Wat eet ik: Foods,2.0,0.0,['kip'],"['nou', 'kip']",1.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,18.0,2
+1895,Wat bedoel je met patat?,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['bedoel', 'patat']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+1906,Ik ga ook patat eten ????,2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['ga', 'patat', 'eten']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1907,Ik ga patat eten dus bye,2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['ga', 'patat', 'eten', 'bye']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1912,Eet smaakelijk,2: Wat eet ik: Foods,,0.0,['eet'],"['eet', 'smaakelijk']",0.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1920,Ik heb patat gegeten????????????????,2: Wat eet ik: Foods,4.0,1.0,['patat'],"['patat', 'geget']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+1925,Ik eet frites.,2: Wat eet ik: Foods,,0.0,['eet'],"['eet', 'frites']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1933,Met soep en een toetje,2: Wat eet ik: Foods,2.0,0.0,"['soep', 'toetj']","['soep', 'toetj']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1935,Patatjees,2: Wat eet ik: Foods,4.0,0.0,['patatjes'],['patatjes'],0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+1959,Jullie soep mee,2: Wat eet ik: Foods,2.0,0.0,['soep'],"['jullie', 'soep', 'mee']",0.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+1964,Zo lekker al dat eten,2: Wat eet ik: Foods,,0.0,['eten'],"['lekker', 'eten']",2.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,19.0,2
+1965,Ik heb zin in pannenkoeken,2: Wat eet ik: Foods,2.0,0.0,['pannenkoek'],"['zin', 'pannenkoek']",2.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0,2
+1967,Zo eten mensen toch gwn??,2: Wat eet ik: Foods,,1.0,['eten'],"['eten', 'mens', 'gwn']",0.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+1970,Kip en chocola ,2: Wat eet ik: Foods,4.0,0.0,"['kip', 'chocola']","['kip', 'chocola']",0.0,13.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,22.0,2
+1985,Wel lekkker eten h????????????????????????????????,2: Wat eet ik: Foods,,0.0,['eten'],"['wel', 'lekker', 'eten']",2.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,2
+1988,Lekker thee aan het drinken,2: Wat eet ik: Foods,2.0,0.0,"['drink', 'thee']","['lekker', 'thee', 'drink']",0.0,10.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,24.0,2
+1990,Maar straks ga ik kip eten,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'eten']","['strak', 'ga', 'kip', 'eten']",0.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,24.0,2
+1992,Ik ga eten lekker,2: Wat eet ik: Foods,,0.0,['eten'],"['ga', 'eten', 'lekker']",2.0,9.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,0.0,1.0,15.0,2
+1993,Spaar jij ok die tech te gek plaatjes,2: Wat eet ik: Foods,,0.0,['spar'],"['spar', 'jij', 'ok', 'tech', 'gek', 'plaatjes']",0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0666666666666667,1.0,0.0,1.0,0.0,0.0,17.0,2
+2001,Ik eet nu susi????,2: Wat eet ik: Foods,,0.0,['eet'],"['eet', 'susi']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,17.0,2
+2003,Te zoet,2: Wat eet ik: Foods,,0.0,['zoet'],['zoet'],0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.4,0.0,0.0,1.0,0.0,0.0,17.0,2
+2016,Snoep jij hat me beloofd,2: Wat eet ik: Foods,4.0,0.0,['snoep'],"['snoep', 'jij', 'hat', 'beloofd']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+2018,Ik ook brood met ei,2: Wat eet ik: Foods,1.0,0.0,['brod'],"['brod', 'ei']",0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+2022,Ik heb zin in taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['zin', 'taart']",2.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,2
+2023,Ik heb thius nog taart,2: Wat eet ik: Foods,4.0,0.0,['taart'],"['thius', 'taart']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+2026,Ik zit snoep te eeten,2: Wat eet ik: Foods,4.0,0.0,"['snoep', 'eet']","['zit', 'snoep', 'eet']",2.0,10.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,15.0,2
+2030,Jordi jij vind kibbeling tog ook lekker,2: Wat eet ik: Foods,1.0,0.0,['kibbel'],"['jordi', 'jij', 'vind', 'kibbel', 'tog', 'lekker']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+2051,"Kijk is naar jezelf, kip",2: Wat eet ik: Foods,2.0,0.0,['kip'],"['kijk', 'jezelf', 'kip']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-0.6499999999999999,0.0,0.0,1.0,0.0,0.0,15.0,2
+2057,Ik kip en brocoli en aardappelen,2: Wat eet ik: Foods,2.0,0.0,"['kip', 'aardappel']","['kip', 'brocoli', 'aardappel']",0.0,10.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,20.0,2
+2062,Hoi meester donut,2: Wat eet ik: Foods,4.0,0.0,['donut'],"['hoi', 'meester', 'donut']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+2063,Iets voot ensar die donut,2: Wat eet ik: Foods,4.0,0.0,['donut'],"['vot', 'ensar', 'donut']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+2075,Nou ja ensar de donut iets voor jou ????????,2: Wat eet ik: Foods,4.0,0.0,['donut'],"['nou', 'ensar', 'donut', 'jou']",0.0,11.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,19.0,2
+2080,Een vis die zingt,2: Wat eet ik: Foods,1.0,0.0,['vis'],"['vis', 'zingt']",0.0,10.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,14.0,2
+2083,Is het leuk onder de tafel dong,2: Wat eet ik: Foods,,0.0,['tafel'],"['leuk', 'tafel', 'dong']",0.0,11.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,0.0,2
+2085,Trouwens mekselina ik heb daar ook zin in die cake ,2: Wat eet ik: Foods,4.0,0.0,['cak'],"['trouwen', 'mekselina', 'zin', 'cak']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,16.0,2
+2108,Het is heelllleeeeeeeeeee lekkere gerperste appelsap,2: Wat eet ik: Foods,5.0,0.0,['appelsap'],"['heellee', 'lekker', 'gerperst', 'appelsap']",0.0,10.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,1.0,0.0,0.0,18.0,2
+2109,Nee mag niet na het eeten,2: Wat eet ik: Foods,,0.0,['eet'],"['nee', 'mag', 'eet']",0.0,10.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2112, Ik ben lekker thee aan het drinken??????,2: Wat eet ik: Foods,2.0,0.0,"['drink', 'thee']","['lekker', 'thee', 'drink']",0.0,9.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.6,0.0,0.0,1.0,0.0,0.0,15.0,2
+2131,Wij hebben ook patat gegeten,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['wij', 'patat', 'geget']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2132,Heb jij een frikandel er bij of een kroket,2: Wat eet ik: Foods,3.0,0.0,"['kroket', 'frikandel']","['jij', 'frikandel', 'kroket']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2133,Ik een frikandel,2: Wat eet ik: Foods,4.0,0.0,['frikandel'],['frikandel'],0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2134,Wat neem jij bij de patat?? ,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['nem', 'jij', 'patat']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2135,Een frikandel of een kroket,2: Wat eet ik: Foods,3.0,0.0,"['kroket', 'frikandel']","['frikandel', 'kroket']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2136,Ik een frikandel jij dan ??,2: Wat eet ik: Foods,4.0,0.0,['frikandel'],"['frikandel', 'jij']",0.0,11.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2137,Moet gaan eten . WORST!!!!!!!! ????,2: Wat eet ik: Foods,3.0,0.0,"['worst', 'eten']","['gan', 'eten', 'worst']",0.0,11.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,18.0,2
+2138,Gewoon n zak snoep,2: Wat eet ik: Foods,4.0,0.0,['snoep'],"['gewon', 'zak', 'snoep']",0.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+2139,Wij gaan patat eten!,2: Wat eet ik: Foods,4.0,0.0,"['patat', 'eten']","['wij', 'gan', 'patat', 'eten']",0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
+2141,Wat nam jij bij de patat,2: Wat eet ik: Foods,4.0,0.0,['patat'],"['nam', 'jij', 'patat']",0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,15.0,2
